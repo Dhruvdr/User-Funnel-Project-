@@ -25,7 +25,6 @@ The goal of this project is to answer the following questions:
 | 3. Purchase Completed   | Total Purchase Amount, Payment Method       | Customer completes the purchase transaction.             |
 | 4. Post-Purchase Returns| Returns                                     | Customer returns the product(s) purchased.               |
 | 5. Retention / Churn    | Churn                                       | Whether the customer remains active or churns.           |
-|-------------------------|---------------------------------------------|----------------------------------------------------------|
 
 ---
 
