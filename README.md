@@ -68,9 +68,13 @@ The goal of this project is to answer the following questions:
 
 
 ## Project Structure 
-<pre> ``` ├── Data │ ├── Ecommerce Customer # Original Dataset │ └── book1.xlsx # Cleaned dataset 
-  ├── SQL Outputs │ └── Queries.sql # SQL logic for funnel analysis 
-  ├── Output # Images of Charts and Dashboards 
-  └── README.md # Project documentation ``` </pre>
+<pre> ``` ├── Data 
+  │                 ├── Ecommerce Customer           # Original Dataset 
+  │                 └── book1.xlsx                   # Cleaned dataset 
+  ├── SQL Outputs 
+  │                 └── Queries.sql                  # SQL logic for funnel analysis 
+  |                 └── CSV Output Files 
+  ├── Output                                         # Images of Charts and Dashboards 
+  └── README.md                                      # Project documentation ``` </pre>
 
 
