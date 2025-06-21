@@ -1,0 +1,1001 @@
+"Customer ID","Purchase Date","Product Category","Product Price",Quantity,"Total Purchase Amount","Payment Method","Customer Age",Returns,"Customer Name",Age,Gender,Churn,"Total Amount",Stage_ProductInterest,Stage_Intent,Stage_Purchase,Stage_Return,Stage_Churn
+44605,03-05-2023,Home,177,1,2427,PayPal,31,1,"John Rivera",31,Female,0,177,1,1,1,1,0
+44605,16-05-2021,Electronics,174,3,2448,PayPal,31,1,"John Rivera",31,Female,0,522,1,1,1,1,0
+44605,13-07-2020,Books,413,1,2345,"Credit Card",31,1,"John Rivera",31,Female,0,413,1,1,1,1,0
+44605,17-01-2023,Electronics,396,3,937,Cash,31,0,"John Rivera",31,Female,0,1188,1,1,1,0,0
+44605,01-05-2021,Books,259,4,2598,PayPal,31,1,"John Rivera",31,Female,0,1036,1,1,1,1,0
+13738,25-08-2022,Home,191,3,3722,"Credit Card",27,1,"Lauren Johnson",27,Female,0,573,1,1,1,1,0
+13738,25-07-2023,Electronics,205,1,2773,"Credit Card",27,0,"Lauren Johnson",27,Female,0,205,1,1,1,0,0
+13738,05-02-2023,Books,370,5,1486,Cash,27,1,"Lauren Johnson",27,Female,0,1850,1,1,1,1,0
+13738,21-12-2021,Home,12,2,2175,Cash,27,0,"Lauren Johnson",27,Female,0,24,1,1,1,0,0
+13738,09-02-2023,Electronics,40,4,4327,Cash,27,0,"Lauren Johnson",27,Female,0,160,1,1,1,0,0
+33969,28-02-2023,Clothing,410,3,5018,"Credit Card",27,0,"Carol Allen",27,Male,0,1230,1,1,1,0,0
+33969,05-01-2023,Home,304,1,3883,PayPal,27,1,"Carol Allen",27,Male,0,304,1,1,1,1,0
+33969,18-07-2023,Books,54,2,4187,PayPal,27,0,"Carol Allen",27,Male,0,108,1,1,1,0,0
+33969,20-12-2021,Electronics,428,4,2289,Cash,27,0,"Carol Allen",27,Male,0,1712,1,1,1,0,0
+33969,07-03-2020,Books,281,1,3810,Cash,27,0,"Carol Allen",27,Male,0,281,1,1,1,0,0
+33969,21-07-2022,Home,193,2,3198,"Credit Card",27,0,"Carol Allen",27,Male,0,386,1,1,1,0,0
+33969,05-07-2023,Clothing,473,3,2881,"Credit Card",27,1,"Carol Allen",27,Male,0,1419,1,1,1,1,0
+42650,18-10-2020,Books,127,5,3347,Cash,20,0,"Curtis Smith",20,Female,0,635,1,1,1,0,0
+42650,17-05-2020,Home,284,2,3531,"Credit Card",20,1,"Curtis Smith",20,Female,0,568,1,1,1,1,0
+42650,18-03-2022,Electronics,256,2,3548,"Credit Card",20,0,"Curtis Smith",20,Female,0,512,1,1,1,0,0
+42650,21-04-2021,Clothing,252,2,1775,"Credit Card",20,1,"Curtis Smith",20,Female,0,504,1,1,1,1,0
+42650,26-01-2022,Electronics,105,2,3721,"Credit Card",20,0,"Curtis Smith",20,Female,0,210,1,1,1,0,0
+42650,11-11-2020,Electronics,193,2,3266,PayPal,20,1,"Curtis Smith",20,Female,0,386,1,1,1,1,0
+42650,29-04-2023,Home,43,1,2312,Cash,20,0,"Curtis Smith",20,Female,0,43,1,1,1,0,0
+42650,04-07-2022,Home,30,5,642,PayPal,20,1,"Curtis Smith",20,Female,0,150,1,1,1,1,0
+42650,01-08-2021,Electronics,30,3,5024,"Credit Card",20,1,"Curtis Smith",20,Female,0,90,1,1,1,1,0
+42650,24-05-2020,Electronics,307,3,973,PayPal,20,0,"Curtis Smith",20,Female,0,921,1,1,1,0,0
+42650,24-03-2022,Electronics,254,1,3865,PayPal,20,0,"Curtis Smith",20,Female,0,254,1,1,1,0,0
+42650,02-09-2022,Books,12,3,3112,Cash,20,1,"Curtis Smith",20,Female,0,36,1,1,1,1,0
+42650,14-11-2021,Books,66,3,250,PayPal,20,1,"Curtis Smith",20,Female,0,198,1,1,1,1,0
+24053,17-11-2020,Electronics,102,2,5206,"Credit Card",53,1,"Jose Green",53,Male,0,204,1,1,1,1,0
+24053,07-05-2021,Books,187,5,629,PayPal,53,1,"Jose Green",53,Male,0,935,1,1,1,1,0
+24053,07-09-2022,Books,86,1,843,"Credit Card",53,1,"Jose Green",53,Male,0,86,1,1,1,1,0
+24053,05-07-2020,Electronics,364,3,1008,"Credit Card",53,0,"Jose Green",53,Male,0,1092,1,1,1,0,0
+24053,11-01-2022,Books,210,2,4567,"Credit Card",53,0,"Jose Green",53,Male,0,420,1,1,1,0,0
+19676,12-01-2022,Clothing,304,3,4869,PayPal,57,1,"Linda Lee",57,Male,0,912,1,1,1,1,0
+19676,26-06-2021,Electronics,329,1,3391,Cash,57,1,"Linda Lee",57,Male,0,329,1,1,1,1,0
+19676,30-06-2022,Clothing,306,4,1712,"Credit Card",57,1,"Linda Lee",57,Male,0,1224,1,1,1,1,0
+19676,20-04-2020,Electronics,165,5,603,"Credit Card",57,0,"Linda Lee",57,Male,0,825,1,1,1,0,0
+19676,23-03-2021,Electronics,218,4,2866,PayPal,57,0,"Linda Lee",57,Male,0,872,1,1,1,0,0
+19917,16-05-2023,Clothing,392,3,1378,"Credit Card",34,0,"Joshua Davis",34,Male,1,1176,1,1,1,0,0
+19917,27-10-2021,Clothing,238,3,1760,"Credit Card",34,0,"Joshua Davis",34,Male,1,714,1,1,1,0,0
+19917,09-12-2021,Books,174,5,4517,"Credit Card",34,0,"Joshua Davis",34,Male,1,870,1,1,1,0,0
+19917,18-10-2022,Electronics,41,2,743,Cash,34,0,"Joshua Davis",34,Male,1,82,1,1,1,0,0
+16051,20-08-2021,Books,118,2,3672,Cash,45,0,"Ellen Kent",45,Male,0,236,1,1,1,0,0
+16051,14-02-2020,Clothing,14,4,2733,PayPal,45,0,"Ellen Kent",45,Male,0,56,1,1,1,0,0
+16051,28-11-2021,Home,424,1,631,Cash,45,0,"Ellen Kent",45,Male,0,424,1,1,1,0,0
+16051,30-10-2020,Clothing,351,5,716,PayPal,45,0,"Ellen Kent",45,Male,0,1755,1,1,1,0,0
+16051,25-11-2020,Clothing,89,1,3577,PayPal,45,1,"Ellen Kent",45,Male,0,89,1,1,1,1,0
+16051,13-09-2020,Home,287,3,3908,Cash,45,0,"Ellen Kent",45,Male,0,861,1,1,1,0,0
+16051,29-08-2021,Home,400,3,4889,Cash,45,1,"Ellen Kent",45,Male,0,1200,1,1,1,1,0
+16051,19-04-2022,Clothing,22,2,4490,"Credit Card",45,1,"Ellen Kent",45,Male,0,44,1,1,1,1,0
+16051,31-05-2020,Home,23,1,3820,"Credit Card",45,0,"Ellen Kent",45,Male,0,23,1,1,1,0,0
+23734,02-11-2021,Clothing,14,1,5020,"Credit Card",18,1,"Cheryl Espinoza",18,Male,0,14,1,1,1,1,0
+23734,21-09-2022,Electronics,75,1,289,PayPal,18,0,"Cheryl Espinoza",18,Male,0,75,1,1,1,0,0
+23734,09-02-2020,Books,283,5,2673,Cash,18,0,"Cheryl Espinoza",18,Male,0,1415,1,1,1,0,0
+23734,19-06-2021,Clothing,31,4,4894,Cash,18,1,"Cheryl Espinoza",18,Male,0,124,1,1,1,1,0
+16921,24-01-2023,Books,51,3,1881,PayPal,54,1,"Cheyenne James",54,Male,0,153,1,1,1,1,0
+16921,04-02-2020,Clothing,350,2,1752,Cash,54,1,"Cheyenne James",54,Male,0,700,1,1,1,1,0
+16921,07-01-2021,Home,66,1,2892,Cash,54,0,"Cheyenne James",54,Male,0,66,1,1,1,0,0
+16921,21-03-2022,Home,47,3,4714,PayPal,54,1,"Cheyenne James",54,Male,0,141,1,1,1,1,0
+16921,22-04-2021,Electronics,500,2,988,Cash,54,1,"Cheyenne James",54,Male,0,1000,1,1,1,1,0
+16921,31-12-2020,Home,249,2,3171,"Credit Card",54,1,"Cheyenne James",54,Male,0,498,1,1,1,1,0
+7796,16-09-2022,Clothing,195,1,3818,PayPal,21,1,"Lisa Dennis",21,Male,0,195,1,1,1,1,0
+7796,22-10-2022,Electronics,145,2,2134,PayPal,21,0,"Lisa Dennis",21,Male,0,290,1,1,1,0,0
+7796,12-11-2020,Home,381,3,368,Cash,21,1,"Lisa Dennis",21,Male,0,1143,1,1,1,1,0
+7796,21-02-2022,Clothing,169,5,4986,PayPal,21,0,"Lisa Dennis",21,Male,0,845,1,1,1,0,0
+21035,03-09-2022,Electronics,443,2,1884,"Credit Card",50,1,"Peter Watson",50,Female,1,886,1,1,1,1,0
+21035,15-06-2021,Electronics,116,3,2334,"Credit Card",50,0,"Peter Watson",50,Female,1,348,1,1,1,0,0
+21035,22-08-2021,Home,500,1,698,"Credit Card",50,1,"Peter Watson",50,Female,1,500,1,1,1,1,0
+21035,28-11-2020,Home,249,1,2925,"Credit Card",50,0,"Peter Watson",50,Female,1,249,1,1,1,0,0
+21035,15-03-2020,Books,112,4,793,PayPal,50,0,"Peter Watson",50,Female,1,448,1,1,1,0,0
+21035,27-01-2021,Electronics,457,2,2919,PayPal,50,1,"Peter Watson",50,Female,1,914,1,1,1,1,0
+21035,09-09-2023,Home,237,2,1088,Cash,50,1,"Peter Watson",50,Female,1,474,1,1,1,1,0
+37125,08-06-2021,Electronics,207,5,783,"Credit Card",24,0,"Terry Campos",24,Female,0,1035,1,1,1,0,0
+37125,23-08-2022,Electronics,311,2,2992,Cash,24,0,"Terry Campos",24,Female,0,622,1,1,1,0,0
+37125,30-11-2022,Home,158,4,1047,Cash,24,0,"Terry Campos",24,Female,0,632,1,1,1,0,0
+41840,16-09-2022,Clothing,10,5,3540,"Credit Card",48,0,"Ronald Berger",48,Male,0,50,1,1,1,0,0
+41840,14-05-2023,Home,418,4,1599,"Credit Card",48,0,"Ronald Berger",48,Male,0,1672,1,1,1,0,0
+41840,10-05-2021,Electronics,298,3,1837,Cash,48,1,"Ronald Berger",48,Male,0,894,1,1,1,1,0
+41840,15-04-2021,Home,389,3,907,Cash,48,0,"Ronald Berger",48,Male,0,1167,1,1,1,0,0
+41840,11-09-2022,Electronics,251,3,2525,PayPal,48,0,"Ronald Berger",48,Male,0,753,1,1,1,0,0
+41840,07-06-2022,Clothing,72,2,869,"Credit Card",48,0,"Ronald Berger",48,Male,0,144,1,1,1,0,0
+41840,12-11-2021,Electronics,277,5,3975,PayPal,48,0,"Ronald Berger",48,Male,0,1385,1,1,1,0,0
+41840,19-02-2021,Home,431,2,4053,Cash,48,0,"Ronald Berger",48,Male,0,862,1,1,1,0,0
+41840,09-09-2023,Home,369,5,1231,Cash,48,0,"Ronald Berger",48,Male,0,1845,1,1,1,0,0
+41840,22-01-2021,Clothing,137,1,993,Cash,48,1,"Ronald Berger",48,Male,0,137,1,1,1,1,0
+2642,04-05-2021,Books,20,5,5089,Cash,67,0,"Ian Kelley",67,Female,0,100,1,1,1,0,0
+2642,18-05-2020,Clothing,179,4,4108,Cash,67,0,"Ian Kelley",67,Female,0,716,1,1,1,0,0
+2642,06-08-2020,Books,77,1,396,Cash,67,0,"Ian Kelley",67,Female,0,77,1,1,1,0,0
+2642,18-03-2022,Clothing,67,3,2261,Cash,67,1,"Ian Kelley",67,Female,0,201,1,1,1,1,0
+2642,24-08-2021,Home,387,2,2958,"Credit Card",67,1,"Ian Kelley",67,Female,0,774,1,1,1,1,0
+1254,15-08-2023,Home,476,1,1687,Cash,70,1,"Mr. David Morgan",70,Male,0,476,1,1,1,1,0
+1254,21-03-2023,Home,413,5,3742,Cash,70,0,"Mr. David Morgan",70,Male,0,2065,1,1,1,0,0
+13389,25-08-2023,Books,408,1,3926,"Credit Card",51,0,"Monica Ramos",51,Male,0,408,1,1,1,0,0
+13389,30-09-2021,Books,296,3,4554,Cash,51,1,"Monica Ramos",51,Male,0,888,1,1,1,1,0
+13389,10-02-2023,Clothing,312,2,4477,PayPal,51,1,"Monica Ramos",51,Male,0,624,1,1,1,1,0
+13389,02-11-2020,Books,68,4,948,PayPal,51,1,"Monica Ramos",51,Male,0,272,1,1,1,1,0
+13389,14-07-2022,Electronics,222,2,1731,Cash,51,0,"Monica Ramos",51,Male,0,444,1,1,1,0,0
+13389,31-07-2020,Clothing,436,3,5025,PayPal,51,1,"Monica Ramos",51,Male,0,1308,1,1,1,1,0
+13389,02-06-2023,Books,40,2,2341,"Credit Card",51,1,"Monica Ramos",51,Male,0,80,1,1,1,1,0
+13389,17-04-2023,Home,495,4,1176,"Credit Card",51,0,"Monica Ramos",51,Male,0,1980,1,1,1,0,0
+13389,01-10-2022,Home,165,2,1664,Cash,51,0,"Monica Ramos",51,Male,0,330,1,1,1,0,0
+24473,10-01-2021,Clothing,59,3,1147,"Credit Card",38,0,"Nicole Lewis",38,Female,0,177,1,1,1,0,0
+24473,29-05-2020,Electronics,474,3,4609,PayPal,38,0,"Nicole Lewis",38,Female,0,1422,1,1,1,0,0
+24473,06-09-2021,Books,462,1,4042,"Credit Card",38,1,"Nicole Lewis",38,Female,0,462,1,1,1,1,0
+24473,22-05-2023,Home,436,3,1755,PayPal,38,1,"Nicole Lewis",38,Female,0,1308,1,1,1,1,0
+24473,28-10-2021,Clothing,128,4,1132,"Credit Card",38,1,"Nicole Lewis",38,Female,0,512,1,1,1,1,0
+11230,11-12-2020,Home,219,2,2628,"Credit Card",23,0,"Rebecca Boyer",23,Male,0,438,1,1,1,0,0
+11230,21-04-2021,Electronics,296,5,2232,PayPal,23,1,"Rebecca Boyer",23,Male,0,1480,1,1,1,1,0
+11230,29-04-2020,Clothing,164,2,4402,"Credit Card",23,0,"Rebecca Boyer",23,Male,0,328,1,1,1,0,0
+11230,19-03-2021,Books,17,4,3658,Cash,23,0,"Rebecca Boyer",23,Male,0,68,1,1,1,0,0
+11230,22-11-2021,Home,387,2,4071,"Credit Card",23,1,"Rebecca Boyer",23,Male,0,774,1,1,1,1,0
+11230,08-07-2023,Clothing,37,3,579,Cash,23,0,"Rebecca Boyer",23,Male,0,111,1,1,1,0,0
+24741,23-07-2022,Home,369,1,3026,PayPal,50,1,"Steven Mcmillan",50,Female,0,369,1,1,1,1,0
+24741,05-06-2022,Electronics,87,4,688,Cash,50,1,"Steven Mcmillan",50,Female,0,348,1,1,1,1,0
+24741,08-10-2022,Electronics,230,3,2080,PayPal,50,0,"Steven Mcmillan",50,Female,0,690,1,1,1,0,0
+24741,12-12-2021,Home,193,4,3730,"Credit Card",50,0,"Steven Mcmillan",50,Female,0,772,1,1,1,0,0
+24741,31-07-2020,Books,149,2,1377,Cash,50,0,"Steven Mcmillan",50,Female,0,298,1,1,1,0,0
+24741,21-06-2020,Books,385,4,5083,Cash,50,0,"Steven Mcmillan",50,Female,0,1540,1,1,1,0,0
+10191,19-02-2022,Electronics,229,5,3553,PayPal,66,1,"Walter Griffin",66,Male,0,1145,1,1,1,1,0
+10191,08-02-2021,Home,205,1,2333,"Credit Card",66,1,"Walter Griffin",66,Male,0,205,1,1,1,1,0
+10191,18-02-2023,Home,485,5,1050,PayPal,66,0,"Walter Griffin",66,Male,0,2425,1,1,1,0,0
+10191,07-12-2021,Books,498,4,705,Cash,66,0,"Walter Griffin",66,Male,0,1992,1,1,1,0,0
+10191,01-05-2021,Home,334,3,2542,Cash,66,0,"Walter Griffin",66,Male,0,1002,1,1,1,0,0
+10191,20-12-2021,Electronics,118,2,2304,"Credit Card",66,1,"Walter Griffin",66,Male,0,236,1,1,1,1,0
+10191,15-07-2020,Books,285,3,5091,"Credit Card",66,0,"Walter Griffin",66,Male,0,855,1,1,1,0,0
+10191,01-06-2021,Electronics,76,1,3306,"Credit Card",66,1,"Walter Griffin",66,Male,0,76,1,1,1,1,0
+10191,31-08-2021,Electronics,157,1,4382,"Credit Card",66,0,"Walter Griffin",66,Male,0,157,1,1,1,0,0
+10191,26-06-2020,Books,202,5,3290,"Credit Card",66,1,"Walter Griffin",66,Male,0,1010,1,1,1,1,0
+10191,12-09-2022,Books,291,3,4776,PayPal,66,0,"Walter Griffin",66,Male,0,873,1,1,1,0,0
+6829,04-02-2020,Home,161,3,4323,Cash,43,0,"Chelsea Williams",43,Male,0,483,1,1,1,0,0
+6829,24-06-2020,Home,418,1,3785,"Credit Card",43,0,"Chelsea Williams",43,Male,0,418,1,1,1,0,0
+6829,01-08-2020,Books,151,3,980,"Credit Card",43,1,"Chelsea Williams",43,Male,0,453,1,1,1,1,0
+6829,15-09-2020,Home,127,3,3219,PayPal,43,1,"Chelsea Williams",43,Male,0,381,1,1,1,1,0
+16825,21-07-2020,Clothing,489,1,3184,"Credit Card",37,0,"Melissa Cabrera",37,Male,1,489,1,1,1,0,0
+16825,14-11-2022,Clothing,420,2,969,Cash,37,1,"Melissa Cabrera",37,Male,1,840,1,1,1,1,0
+16825,19-04-2021,Books,395,3,3487,Cash,37,1,"Melissa Cabrera",37,Male,1,1185,1,1,1,1,0
+16825,18-03-2023,Books,227,2,3400,Cash,37,0,"Melissa Cabrera",37,Male,1,454,1,1,1,0,0
+16825,16-08-2021,Clothing,166,4,1379,PayPal,37,0,"Melissa Cabrera",37,Male,1,664,1,1,1,0,0
+18467,18-08-2022,Clothing,115,5,1589,"Credit Card",23,0,"Terri Carter",23,Male,0,575,1,1,1,0,0
+18467,15-12-2020,Home,63,2,4519,PayPal,23,0,"Terri Carter",23,Male,0,126,1,1,1,0,0
+18467,28-02-2023,Clothing,50,1,551,PayPal,23,1,"Terri Carter",23,Male,0,50,1,1,1,1,0
+18467,10-12-2020,Clothing,459,5,1735,PayPal,23,1,"Terri Carter",23,Male,0,2295,1,1,1,1,0
+18467,30-03-2022,Home,192,5,1109,PayPal,23,0,"Terri Carter",23,Male,0,960,1,1,1,0,0
+18467,06-04-2021,Books,219,4,3977,PayPal,23,1,"Terri Carter",23,Male,0,876,1,1,1,1,0
+18467,09-05-2023,Electronics,92,4,3660,PayPal,23,0,"Terri Carter",23,Male,0,368,1,1,1,0,0
+18467,03-01-2020,Books,197,5,3178,"Credit Card",23,0,"Terri Carter",23,Male,0,985,1,1,1,0,0
+18467,30-06-2022,Home,451,2,1834,PayPal,23,0,"Terri Carter",23,Male,0,902,1,1,1,0,0
+34857,10-01-2021,Books,120,3,5279,"Credit Card",57,0,"Alexander Morse",57,Male,1,360,1,1,1,0,0
+34857,13-06-2021,Home,104,2,3319,"Credit Card",57,0,"Alexander Morse",57,Male,1,208,1,1,1,0,0
+34857,03-09-2021,Books,252,4,1038,Cash,57,0,"Alexander Morse",57,Male,1,1008,1,1,1,0,0
+34857,06-02-2023,Electronics,284,4,402,PayPal,57,0,"Alexander Morse",57,Male,1,1136,1,1,1,0,0
+34857,14-06-2023,Books,60,2,1383,"Credit Card",57,1,"Alexander Morse",57,Male,1,120,1,1,1,1,0
+34857,28-10-2021,Electronics,147,4,992,"Credit Card",57,0,"Alexander Morse",57,Male,1,588,1,1,1,0,0
+34857,23-01-2021,Clothing,261,2,2408,"Credit Card",57,0,"Alexander Morse",57,Male,1,522,1,1,1,0,0
+34857,26-08-2021,Books,137,2,2428,Cash,57,0,"Alexander Morse",57,Male,1,274,1,1,1,0,0
+21801,04-09-2022,Electronics,179,3,676,"Credit Card",19,1,"Anne Leblanc",19,Female,0,537,1,1,1,1,0
+21801,05-08-2022,Electronics,266,1,1337,Cash,19,0,"Anne Leblanc",19,Female,0,266,1,1,1,0,0
+21801,01-06-2021,Electronics,228,4,3988,PayPal,19,0,"Anne Leblanc",19,Female,0,912,1,1,1,0,0
+21801,30-03-2021,Clothing,290,5,246,Cash,19,0,"Anne Leblanc",19,Female,0,1450,1,1,1,0,0
+11769,01-04-2023,Clothing,231,4,1054,"Credit Card",65,0,"John Jones",65,Male,0,924,1,1,1,0,0
+11769,23-11-2021,Clothing,51,4,2187,"Credit Card",65,0,"John Jones",65,Male,0,204,1,1,1,0,0
+22193,15-01-2022,Electronics,387,5,3920,Cash,27,0,"Kyle Smith",27,Male,0,1935,1,1,1,0,0
+22193,03-07-2021,Home,116,1,1422,Cash,27,0,"Kyle Smith",27,Male,0,116,1,1,1,0,0
+22193,11-01-2023,Clothing,210,4,3215,"Credit Card",27,0,"Kyle Smith",27,Male,0,840,1,1,1,0,0
+22193,10-05-2020,Electronics,94,4,3764,PayPal,27,1,"Kyle Smith",27,Male,0,376,1,1,1,1,0
+22193,02-04-2021,Electronics,224,4,2130,Cash,27,0,"Kyle Smith",27,Male,0,896,1,1,1,0,0
+7340,04-07-2023,Books,496,3,4224,"Credit Card",35,0,"Kim Mcdonald",35,Male,1,1488,1,1,1,0,0
+7340,13-11-2020,Home,121,4,1812,PayPal,35,0,"Kim Mcdonald",35,Male,1,484,1,1,1,0,0
+7340,11-02-2021,Clothing,214,4,407,"Credit Card",35,0,"Kim Mcdonald",35,Male,1,856,1,1,1,0,0
+7340,17-12-2021,Electronics,352,5,4912,Cash,35,0,"Kim Mcdonald",35,Male,1,1760,1,1,1,0,0
+7340,01-06-2022,Electronics,346,3,2165,"Credit Card",35,1,"Kim Mcdonald",35,Male,1,1038,1,1,1,1,0
+7340,04-12-2022,Home,255,1,306,PayPal,35,0,"Kim Mcdonald",35,Male,1,255,1,1,1,0,0
+31538,19-01-2023,Home,341,4,4847,Cash,37,0,"Joshua Maynard",37,Male,0,1364,1,1,1,0,0
+31538,28-09-2020,Electronics,255,1,3160,Cash,37,1,"Joshua Maynard",37,Male,0,255,1,1,1,1,0
+31538,01-06-2020,Clothing,499,4,4477,Cash,37,1,"Joshua Maynard",37,Male,0,1996,1,1,1,1,0
+31538,18-04-2023,Books,180,2,4994,Cash,37,1,"Joshua Maynard",37,Male,0,360,1,1,1,1,0
+31538,07-07-2020,Home,233,3,3362,PayPal,37,0,"Joshua Maynard",37,Male,0,699,1,1,1,0,0
+31538,17-02-2023,Home,491,4,1475,PayPal,37,0,"Joshua Maynard",37,Male,0,1964,1,1,1,0,0
+31538,21-05-2022,Books,224,4,3440,PayPal,37,0,"Joshua Maynard",37,Male,0,896,1,1,1,0,0
+33511,07-06-2023,Books,333,5,4456,"Credit Card",56,1,"Kathleen Brown",56,Male,1,1665,1,1,1,1,0
+33511,25-12-2021,Electronics,144,1,3877,Cash,56,0,"Kathleen Brown",56,Male,1,144,1,1,1,0,0
+33511,22-01-2020,Books,139,2,744,"Credit Card",56,0,"Kathleen Brown",56,Male,1,278,1,1,1,0,0
+33511,04-08-2022,Clothing,28,1,3579,"Credit Card",56,1,"Kathleen Brown",56,Male,1,28,1,1,1,1,0
+33511,27-02-2022,Electronics,467,4,3142,Cash,56,0,"Kathleen Brown",56,Male,1,1868,1,1,1,0,0
+33511,18-01-2021,Electronics,229,3,4086,PayPal,56,1,"Kathleen Brown",56,Male,1,687,1,1,1,1,0
+33511,13-07-2023,Books,66,3,2273,"Credit Card",56,0,"Kathleen Brown",56,Male,1,198,1,1,1,0,0
+5952,07-11-2022,Home,107,3,1192,"Credit Card",55,1,"Elizabeth Ingram",55,Male,0,321,1,1,1,1,0
+5952,07-02-2023,Electronics,75,2,1947,PayPal,55,0,"Elizabeth Ingram",55,Male,0,150,1,1,1,0,0
+5952,08-09-2022,Electronics,220,4,2840,Cash,55,0,"Elizabeth Ingram",55,Male,0,880,1,1,1,0,0
+5952,02-10-2020,Electronics,19,2,1354,PayPal,55,0,"Elizabeth Ingram",55,Male,0,38,1,1,1,0,0
+5952,11-03-2021,Home,219,2,4129,"Credit Card",55,1,"Elizabeth Ingram",55,Male,0,438,1,1,1,1,0
+48449,17-01-2022,Home,218,1,2725,Cash,31,0,"Mrs. Stacy Brown DDS",31,Male,0,218,1,1,1,0,0
+48449,01-08-2022,Clothing,71,5,4657,PayPal,31,0,"Mrs. Stacy Brown DDS",31,Male,0,355,1,1,1,0,0
+48449,22-01-2020,Clothing,57,2,3574,"Credit Card",31,1,"Mrs. Stacy Brown DDS",31,Male,0,114,1,1,1,1,0
+48449,18-10-2020,Clothing,278,4,4938,Cash,31,1,"Mrs. Stacy Brown DDS",31,Male,0,1112,1,1,1,1,0
+48449,17-06-2020,Electronics,127,1,958,Cash,31,1,"Mrs. Stacy Brown DDS",31,Male,0,127,1,1,1,1,0
+48449,22-04-2021,Electronics,91,3,1899,"Credit Card",31,1,"Mrs. Stacy Brown DDS",31,Male,0,273,1,1,1,1,0
+17203,21-01-2023,Electronics,259,3,3809,"Credit Card",62,0,"James Roberson",62,Male,0,777,1,1,1,0,0
+17203,27-09-2021,Clothing,495,4,3057,Cash,62,1,"James Roberson",62,Male,0,1980,1,1,1,1,0
+17203,03-07-2022,Home,160,4,5300,Cash,62,0,"James Roberson",62,Male,0,640,1,1,1,0,0
+17203,10-05-2022,Books,83,2,1952,"Credit Card",62,0,"James Roberson",62,Male,0,166,1,1,1,0,0
+17203,13-06-2023,Home,445,1,3218,PayPal,62,1,"James Roberson",62,Male,0,445,1,1,1,1,0
+17203,10-08-2023,Clothing,400,4,4683,PayPal,62,0,"James Roberson",62,Male,0,1600,1,1,1,0,0
+2695,02-08-2022,Home,78,2,4036,PayPal,45,0,"Andrea Ross",45,Female,0,156,1,1,1,0,0
+2695,19-12-2020,Books,220,5,3629,PayPal,45,0,"Andrea Ross",45,Female,0,1100,1,1,1,0,0
+2695,28-03-2022,Books,88,4,3438,PayPal,45,1,"Andrea Ross",45,Female,0,352,1,1,1,1,0
+2695,15-09-2021,Books,398,4,1999,Cash,45,1,"Andrea Ross",45,Female,0,1592,1,1,1,1,0
+2695,29-03-2022,Clothing,232,4,2444,"Credit Card",45,1,"Andrea Ross",45,Female,0,928,1,1,1,1,0
+2695,15-04-2021,Home,306,5,650,Cash,45,0,"Andrea Ross",45,Female,0,1530,1,1,1,0,0
+2695,02-09-2020,Books,336,5,3190,"Credit Card",45,0,"Andrea Ross",45,Female,0,1680,1,1,1,0,0
+2695,17-08-2023,Electronics,294,3,953,PayPal,45,1,"Andrea Ross",45,Female,0,882,1,1,1,1,0
+15079,04-07-2021,Home,281,1,4685,Cash,24,0,"Christine Stanton",24,Male,0,281,1,1,1,0,0
+15079,18-11-2020,Electronics,413,4,3445,Cash,24,1,"Christine Stanton",24,Male,0,1652,1,1,1,1,0
+15079,13-09-2023,Electronics,121,5,3209,PayPal,24,0,"Christine Stanton",24,Male,0,605,1,1,1,0,0
+15079,03-12-2022,Electronics,490,2,2103,"Credit Card",24,0,"Christine Stanton",24,Male,0,980,1,1,1,0,0
+15079,08-07-2020,Home,140,4,2618,"Credit Card",24,1,"Christine Stanton",24,Male,0,560,1,1,1,1,0
+15079,22-04-2020,Books,179,4,5051,Cash,24,1,"Christine Stanton",24,Male,0,716,1,1,1,1,0
+15079,23-01-2021,Books,256,1,2322,"Credit Card",24,0,"Christine Stanton",24,Male,0,256,1,1,1,0,0
+21450,02-11-2021,Books,269,4,2370,PayPal,39,0,"Christopher Barber",39,Female,1,1076,1,1,1,0,0
+21450,16-12-2020,Books,498,1,5132,"Credit Card",39,1,"Christopher Barber",39,Female,1,498,1,1,1,1,0
+21450,16-11-2022,Electronics,174,2,663,"Credit Card",39,0,"Christopher Barber",39,Female,1,348,1,1,1,0,0
+21450,20-01-2021,Books,470,1,4846,PayPal,39,1,"Christopher Barber",39,Female,1,470,1,1,1,1,0
+21450,06-10-2021,Books,72,4,4038,"Credit Card",39,1,"Christopher Barber",39,Female,1,288,1,1,1,1,0
+21450,02-06-2022,Home,267,5,4134,Cash,39,0,"Christopher Barber",39,Female,1,1335,1,1,1,0,0
+21450,14-06-2023,Home,115,4,1310,"Credit Card",39,0,"Christopher Barber",39,Female,1,460,1,1,1,0,0
+11738,02-10-2021,Home,73,2,4855,PayPal,64,0,"Cynthia Taylor",64,Male,0,146,1,1,1,0,0
+11738,23-10-2021,Clothing,208,4,2119,Cash,64,0,"Cynthia Taylor",64,Male,0,832,1,1,1,0,0
+11738,06-09-2023,Books,131,4,412,"Credit Card",64,1,"Cynthia Taylor",64,Male,0,524,1,1,1,1,0
+11738,01-09-2023,Clothing,102,1,3927,PayPal,64,1,"Cynthia Taylor",64,Male,0,102,1,1,1,1,0
+15595,06-10-2020,Books,166,3,4845,Cash,40,0,"Stephen Hughes",40,Male,0,498,1,1,1,0,0
+15595,24-06-2021,Electronics,301,3,2816,"Credit Card",40,1,"Stephen Hughes",40,Male,0,903,1,1,1,1,0
+15595,13-02-2022,Home,372,2,2514,Cash,40,0,"Stephen Hughes",40,Male,0,744,1,1,1,0,0
+15595,06-01-2020,Clothing,314,4,3740,Cash,40,1,"Stephen Hughes",40,Male,0,1256,1,1,1,1,0
+15595,24-03-2022,Books,356,3,2008,Cash,40,0,"Stephen Hughes",40,Male,0,1068,1,1,1,0,0
+15595,08-10-2022,Books,452,5,4409,Cash,40,0,"Stephen Hughes",40,Male,0,2260,1,1,1,0,0
+15595,21-05-2020,Books,389,5,3028,"Credit Card",40,0,"Stephen Hughes",40,Male,0,1945,1,1,1,0,0
+44311,04-11-2022,Books,413,2,4641,Cash,49,0,"Lauren Torres",49,Female,1,826,1,1,1,0,0
+44311,26-08-2020,Clothing,147,3,4967,"Credit Card",49,0,"Lauren Torres",49,Female,1,441,1,1,1,0,0
+44311,12-03-2023,Home,384,3,2725,Cash,49,0,"Lauren Torres",49,Female,1,1152,1,1,1,0,0
+44311,28-09-2021,Home,427,2,3013,Cash,49,0,"Lauren Torres",49,Female,1,854,1,1,1,0,0
+44311,11-01-2020,Books,83,3,979,PayPal,49,1,"Lauren Torres",49,Female,1,249,1,1,1,1,0
+44311,07-06-2022,Electronics,487,3,4630,"Credit Card",49,0,"Lauren Torres",49,Female,1,1461,1,1,1,0,0
+44311,02-10-2022,Books,260,4,3869,PayPal,49,1,"Lauren Torres",49,Female,1,1040,1,1,1,1,0
+44311,07-08-2022,Books,362,4,4516,PayPal,49,0,"Lauren Torres",49,Female,1,1448,1,1,1,0,0
+31852,02-02-2020,Books,446,2,1685,PayPal,70,1,"Amber Watson",70,Male,1,892,1,1,1,1,0
+31852,28-05-2022,Electronics,407,2,1265,Cash,70,1,"Amber Watson",70,Male,1,814,1,1,1,1,0
+31852,30-07-2022,Home,319,4,4252,PayPal,70,1,"Amber Watson",70,Male,1,1276,1,1,1,1,0
+46881,24-09-2022,Electronics,455,2,2574,"Credit Card",40,1,"Matthew Navarro",40,Male,0,910,1,1,1,1,0
+46881,08-08-2020,Electronics,299,1,4362,PayPal,40,1,"Matthew Navarro",40,Male,0,299,1,1,1,1,0
+46881,05-07-2022,Clothing,120,4,3856,"Credit Card",40,0,"Matthew Navarro",40,Male,0,480,1,1,1,0,0
+46881,13-09-2022,Home,123,1,2512,"Credit Card",40,1,"Matthew Navarro",40,Male,0,123,1,1,1,1,0
+46881,11-09-2021,Electronics,148,5,3838,"Credit Card",40,0,"Matthew Navarro",40,Male,0,740,1,1,1,0,0
+14652,17-05-2022,Clothing,377,3,3768,Cash,31,0,"George Johnson Jr.",31,Female,0,1131,1,1,1,0,0
+14652,23-02-2022,Home,97,1,1416,"Credit Card",31,0,"George Johnson Jr.",31,Female,0,97,1,1,1,0,0
+14652,01-02-2022,Clothing,498,2,3245,"Credit Card",31,0,"George Johnson Jr.",31,Female,0,996,1,1,1,0,0
+14652,07-04-2020,Clothing,94,1,2406,Cash,31,1,"George Johnson Jr.",31,Female,0,94,1,1,1,1,0
+14652,01-10-2020,Clothing,213,2,3064,PayPal,31,0,"George Johnson Jr.",31,Female,0,426,1,1,1,0,0
+14652,09-05-2021,Books,320,5,2185,"Credit Card",31,1,"George Johnson Jr.",31,Female,0,1600,1,1,1,1,0
+14652,04-08-2020,Books,449,2,1786,PayPal,31,1,"George Johnson Jr.",31,Female,0,898,1,1,1,1,0
+14652,05-04-2021,Clothing,325,5,3049,"Credit Card",31,1,"George Johnson Jr.",31,Female,0,1625,1,1,1,1,0
+14652,12-03-2021,Electronics,273,5,2333,"Credit Card",31,0,"George Johnson Jr.",31,Female,0,1365,1,1,1,0,0
+14652,15-09-2022,Clothing,421,4,4565,PayPal,31,1,"George Johnson Jr.",31,Female,0,1684,1,1,1,1,0
+14652,25-05-2021,Home,381,3,244,Cash,31,1,"George Johnson Jr.",31,Female,0,1143,1,1,1,1,0
+835,29-01-2023,Electronics,306,1,5281,Cash,59,0,"Richard Smith",59,Male,0,306,1,1,1,0,0
+835,18-10-2022,Clothing,169,5,3426,"Credit Card",59,0,"Richard Smith",59,Male,0,845,1,1,1,0,0
+835,29-09-2020,Books,370,3,1885,"Credit Card",59,1,"Richard Smith",59,Male,0,1110,1,1,1,1,0
+835,24-08-2021,Electronics,494,1,3909,"Credit Card",59,0,"Richard Smith",59,Male,0,494,1,1,1,0,0
+835,13-06-2021,Home,31,2,2261,PayPal,59,0,"Richard Smith",59,Male,0,62,1,1,1,0,0
+26275,09-09-2023,Electronics,93,2,4814,"Credit Card",64,0,"Colton Guerra",64,Female,0,186,1,1,1,0,0
+26275,31-01-2023,Clothing,371,3,4765,"Credit Card",64,1,"Colton Guerra",64,Female,0,1113,1,1,1,1,0
+26275,26-05-2020,Home,354,3,1686,Cash,64,0,"Colton Guerra",64,Female,0,1062,1,1,1,0,0
+26275,11-08-2021,Electronics,17,1,3587,"Credit Card",64,0,"Colton Guerra",64,Female,0,17,1,1,1,0,0
+37795,28-01-2023,Electronics,348,3,967,"Credit Card",62,1,"Steven Mccullough",62,Male,0,1044,1,1,1,1,0
+37795,27-08-2021,Electronics,17,4,5046,Cash,62,0,"Steven Mccullough",62,Male,0,68,1,1,1,0,0
+37795,26-06-2022,Home,452,4,5011,Cash,62,0,"Steven Mccullough",62,Male,0,1808,1,1,1,0,0
+37795,04-05-2020,Books,78,3,1831,PayPal,62,1,"Steven Mccullough",62,Male,0,234,1,1,1,1,0
+37795,04-12-2020,Clothing,456,2,541,"Credit Card",62,1,"Steven Mccullough",62,Male,0,912,1,1,1,1,0
+37795,14-07-2023,Clothing,208,1,648,PayPal,62,0,"Steven Mccullough",62,Male,0,208,1,1,1,0,0
+4553,14-12-2022,Clothing,89,3,3331,PayPal,19,0,"Roy Rosales",19,Female,0,267,1,1,1,0,0
+4553,13-02-2023,Clothing,428,5,4847,"Credit Card",19,0,"Roy Rosales",19,Female,0,2140,1,1,1,0,0
+4553,26-11-2020,Books,112,5,527,Cash,19,0,"Roy Rosales",19,Female,0,560,1,1,1,0,0
+4553,13-07-2021,Books,489,3,4557,Cash,19,0,"Roy Rosales",19,Female,0,1467,1,1,1,0,0
+4553,17-02-2023,Clothing,99,4,3172,PayPal,19,0,"Roy Rosales",19,Female,0,396,1,1,1,0,0
+4553,09-03-2021,Clothing,243,5,1259,PayPal,19,0,"Roy Rosales",19,Female,0,1215,1,1,1,0,0
+6656,10-03-2022,Clothing,150,4,693,Cash,19,1,"Stacy Melendez",19,Female,0,600,1,1,1,1,0
+6656,04-09-2023,Electronics,222,4,3694,Cash,19,0,"Stacy Melendez",19,Female,0,888,1,1,1,0,0
+6656,23-07-2022,Electronics,287,1,2405,PayPal,19,0,"Stacy Melendez",19,Female,0,287,1,1,1,0,0
+6656,01-01-2020,Clothing,253,1,993,Cash,19,0,"Stacy Melendez",19,Female,0,253,1,1,1,0,0
+6656,21-06-2023,Books,438,5,3592,PayPal,19,0,"Stacy Melendez",19,Female,0,2190,1,1,1,0,0
+6656,14-04-2023,Home,454,4,4844,PayPal,19,1,"Stacy Melendez",19,Female,0,1816,1,1,1,1,0
+6656,22-01-2022,Clothing,277,4,1950,PayPal,19,1,"Stacy Melendez",19,Female,0,1108,1,1,1,1,0
+45727,26-11-2021,Clothing,408,5,2081,PayPal,61,1,"April Reynolds",61,Female,0,2040,1,1,1,1,0
+45727,27-09-2021,Books,62,4,3728,Cash,61,1,"April Reynolds",61,Female,0,248,1,1,1,1,0
+45727,12-10-2021,Home,254,5,3867,"Credit Card",61,0,"April Reynolds",61,Female,0,1270,1,1,1,0,0
+45727,30-07-2021,Clothing,404,5,2533,Cash,61,0,"April Reynolds",61,Female,0,2020,1,1,1,0,0
+45727,09-05-2023,Books,139,2,1650,Cash,61,0,"April Reynolds",61,Female,0,278,1,1,1,0,0
+45727,15-03-2020,Home,281,4,3901,PayPal,61,0,"April Reynolds",61,Female,0,1124,1,1,1,0,0
+45727,04-05-2020,Home,346,2,731,PayPal,61,0,"April Reynolds",61,Female,0,692,1,1,1,0,0
+45727,13-07-2020,Home,166,5,1822,PayPal,61,0,"April Reynolds",61,Female,0,830,1,1,1,0,0
+5243,06-06-2023,Books,449,3,2199,"Credit Card",70,1,"Kendra Bates",70,Male,1,1347,1,1,1,1,0
+5243,04-01-2023,Home,408,4,1743,PayPal,70,0,"Kendra Bates",70,Male,1,1632,1,1,1,0,0
+5243,03-04-2020,Clothing,477,1,5289,PayPal,70,0,"Kendra Bates",70,Male,1,477,1,1,1,0,0
+5243,29-02-2020,Books,34,4,1457,Cash,70,0,"Kendra Bates",70,Male,1,136,1,1,1,0,0
+5243,10-02-2022,Books,180,3,1157,PayPal,70,1,"Kendra Bates",70,Male,1,540,1,1,1,1,0
+5243,04-09-2022,Clothing,78,3,2314,PayPal,70,0,"Kendra Bates",70,Male,1,234,1,1,1,0,0
+32153,06-05-2020,Clothing,17,3,4562,Cash,28,1,"Megan Perry",28,Female,0,51,1,1,1,1,0
+32153,20-01-2021,Electronics,17,3,3340,Cash,28,1,"Megan Perry",28,Female,0,51,1,1,1,1,0
+32153,08-02-2020,Electronics,46,2,3099,PayPal,28,0,"Megan Perry",28,Female,0,92,1,1,1,0,0
+32153,31-12-2022,Electronics,255,5,4586,PayPal,28,0,"Megan Perry",28,Female,0,1275,1,1,1,0,0
+46689,28-01-2023,Home,282,3,5116,"Credit Card",34,1,"Jessica Lopez",34,Female,0,846,1,1,1,1,0
+46689,29-07-2020,Home,413,5,2930,PayPal,34,1,"Jessica Lopez",34,Female,0,2065,1,1,1,1,0
+46689,04-01-2020,Books,403,4,3535,"Credit Card",34,1,"Jessica Lopez",34,Female,0,1612,1,1,1,1,0
+46689,04-03-2020,Home,351,1,3096,"Credit Card",34,1,"Jessica Lopez",34,Female,0,351,1,1,1,1,0
+46689,12-08-2021,Electronics,489,3,583,"Credit Card",34,1,"Jessica Lopez",34,Female,0,1467,1,1,1,1,0
+46689,31-03-2021,Home,460,5,4437,PayPal,34,1,"Jessica Lopez",34,Female,0,2300,1,1,1,1,0
+46689,18-11-2020,Books,151,2,2935,"Credit Card",34,1,"Jessica Lopez",34,Female,0,302,1,1,1,1,0
+46689,25-11-2020,Electronics,201,3,513,PayPal,34,1,"Jessica Lopez",34,Female,0,603,1,1,1,1,0
+46689,11-06-2023,Clothing,142,3,2974,Cash,34,0,"Jessica Lopez",34,Female,0,426,1,1,1,0,0
+46689,19-08-2022,Electronics,277,1,2894,Cash,34,1,"Jessica Lopez",34,Female,0,277,1,1,1,1,0
+8034,20-05-2022,Books,411,5,4445,PayPal,30,0,"Patrick Salinas",30,Male,1,2055,1,1,1,0,0
+8034,29-01-2022,Electronics,24,5,4713,"Credit Card",30,1,"Patrick Salinas",30,Male,1,120,1,1,1,1,0
+8034,09-02-2022,Books,392,5,2933,Cash,30,0,"Patrick Salinas",30,Male,1,1960,1,1,1,0,0
+8034,26-08-2020,Clothing,274,5,847,"Credit Card",30,1,"Patrick Salinas",30,Male,1,1370,1,1,1,1,0
+8034,07-11-2020,Home,321,2,1894,Cash,30,0,"Patrick Salinas",30,Male,1,642,1,1,1,0,0
+8034,05-06-2022,Clothing,378,4,3441,"Credit Card",30,0,"Patrick Salinas",30,Male,1,1512,1,1,1,0,0
+8034,21-07-2021,Electronics,397,2,2288,"Credit Card",30,0,"Patrick Salinas",30,Male,1,794,1,1,1,0,0
+8034,08-07-2021,Home,400,1,2538,Cash,30,0,"Patrick Salinas",30,Male,1,400,1,1,1,0,0
+49818,08-03-2021,Home,455,2,4788,"Credit Card",67,0,"Kaylee Evans",67,Female,0,910,1,1,1,0,0
+49818,12-11-2022,Clothing,18,3,3761,PayPal,67,0,"Kaylee Evans",67,Female,0,54,1,1,1,0,0
+49818,17-07-2022,Books,70,5,4804,PayPal,67,1,"Kaylee Evans",67,Female,0,350,1,1,1,1,0
+49818,17-11-2022,Electronics,271,1,5101,"Credit Card",67,1,"Kaylee Evans",67,Female,0,271,1,1,1,1,0
+49818,25-05-2020,Clothing,249,4,1399,PayPal,67,0,"Kaylee Evans",67,Female,0,996,1,1,1,0,0
+49818,29-04-2020,Books,50,4,833,PayPal,67,1,"Kaylee Evans",67,Female,0,200,1,1,1,1,0
+49818,25-01-2021,Books,91,4,3993,"Credit Card",67,0,"Kaylee Evans",67,Female,0,364,1,1,1,0,0
+49818,22-05-2020,Books,25,2,4608,"Credit Card",67,1,"Kaylee Evans",67,Female,0,50,1,1,1,1,0
+37983,07-03-2021,Clothing,106,4,914,PayPal,67,1,"Victoria Michael",67,Male,0,424,1,1,1,1,0
+37983,22-08-2021,Home,401,5,5033,PayPal,67,0,"Victoria Michael",67,Male,0,2005,1,1,1,0,0
+37983,06-10-2022,Home,351,1,659,PayPal,67,0,"Victoria Michael",67,Male,0,351,1,1,1,0,0
+13184,21-09-2022,Home,243,4,4458,PayPal,62,0,"Michael Daniels",62,Female,0,972,1,1,1,0,0
+13184,22-03-2022,Books,141,1,2367,"Credit Card",62,1,"Michael Daniels",62,Female,0,141,1,1,1,1,0
+13184,21-11-2022,Electronics,390,4,4458,"Credit Card",62,0,"Michael Daniels",62,Female,0,1560,1,1,1,0,0
+13184,20-04-2022,Electronics,453,3,4199,"Credit Card",62,0,"Michael Daniels",62,Female,0,1359,1,1,1,0,0
+13184,12-06-2021,Clothing,327,4,2370,"Credit Card",62,1,"Michael Daniels",62,Female,0,1308,1,1,1,1,0
+13184,05-02-2020,Clothing,465,5,994,PayPal,62,1,"Michael Daniels",62,Female,0,2325,1,1,1,1,0
+23699,06-09-2023,Electronics,236,2,2118,PayPal,59,1,"Tina Murray",59,Male,1,472,1,1,1,1,0
+23699,01-12-2022,Books,289,5,2467,PayPal,59,1,"Tina Murray",59,Male,1,1445,1,1,1,1,0
+23699,23-05-2020,Books,312,1,2456,"Credit Card",59,1,"Tina Murray",59,Male,1,312,1,1,1,1,0
+23699,23-02-2023,Clothing,72,3,523,PayPal,59,1,"Tina Murray",59,Male,1,216,1,1,1,1,0
+23699,01-06-2023,Electronics,260,4,3050,PayPal,59,0,"Tina Murray",59,Male,1,1040,1,1,1,0,0
+23699,24-09-2020,Electronics,203,1,750,Cash,59,1,"Tina Murray",59,Male,1,203,1,1,1,1,0
+23699,21-10-2021,Electronics,222,2,3340,Cash,59,0,"Tina Murray",59,Male,1,444,1,1,1,0,0
+23699,26-01-2022,Electronics,135,2,2261,PayPal,59,1,"Tina Murray",59,Male,1,270,1,1,1,1,0
+23699,29-08-2023,Home,152,5,3778,PayPal,59,0,"Tina Murray",59,Male,1,760,1,1,1,0,0
+15531,04-01-2020,Books,227,5,1446,PayPal,34,0,"Julie Molina",34,Female,0,1135,1,1,1,0,0
+15531,31-03-2023,Clothing,60,3,1445,Cash,34,0,"Julie Molina",34,Female,0,180,1,1,1,0,0
+15531,19-02-2023,Home,59,4,1190,Cash,34,0,"Julie Molina",34,Female,0,236,1,1,1,0,0
+33338,24-07-2021,Books,276,3,1312,PayPal,58,1,"Christine Dixon",58,Male,1,828,1,1,1,1,0
+33338,30-03-2021,Home,301,4,2562,PayPal,58,1,"Christine Dixon",58,Male,1,1204,1,1,1,1,0
+33338,21-06-2022,Home,170,3,3623,PayPal,58,1,"Christine Dixon",58,Male,1,510,1,1,1,1,0
+33338,09-02-2022,Electronics,493,4,3576,"Credit Card",58,0,"Christine Dixon",58,Male,1,1972,1,1,1,0,0
+33338,10-12-2020,Home,201,3,3403,Cash,58,1,"Christine Dixon",58,Male,1,603,1,1,1,1,0
+25314,30-04-2021,Books,461,5,2565,"Credit Card",42,1,"Joseph Pacheco",42,Male,0,2305,1,1,1,1,0
+25314,07-08-2022,Clothing,89,4,1400,PayPal,42,0,"Joseph Pacheco",42,Male,0,356,1,1,1,0,0
+25314,05-01-2020,Electronics,186,4,2351,"Credit Card",42,0,"Joseph Pacheco",42,Male,0,744,1,1,1,0,0
+25314,26-08-2022,Home,456,2,1374,Cash,42,1,"Joseph Pacheco",42,Male,0,912,1,1,1,1,0
+25314,01-11-2022,Clothing,119,4,3915,PayPal,42,1,"Joseph Pacheco",42,Male,0,476,1,1,1,1,0
+8086,21-06-2021,Electronics,336,4,2104,PayPal,39,0,"Angel Harris",39,Male,0,1344,1,1,1,0,0
+8086,03-10-2022,Clothing,278,1,2935,"Credit Card",39,1,"Angel Harris",39,Male,0,278,1,1,1,1,0
+8086,21-02-2023,Electronics,379,1,1735,PayPal,39,0,"Angel Harris",39,Male,0,379,1,1,1,0,0
+8086,15-03-2020,Electronics,312,5,2482,Cash,39,1,"Angel Harris",39,Male,0,1560,1,1,1,1,0
+8086,03-06-2022,Clothing,46,3,3289,PayPal,39,0,"Angel Harris",39,Male,0,138,1,1,1,0,0
+8086,28-02-2022,Clothing,386,4,1356,PayPal,39,1,"Angel Harris",39,Male,0,1544,1,1,1,1,0
+8086,26-06-2023,Books,205,5,1445,"Credit Card",39,0,"Angel Harris",39,Male,0,1025,1,1,1,0,0
+8086,06-10-2020,Home,348,4,3068,PayPal,39,1,"Angel Harris",39,Male,0,1392,1,1,1,1,0
+8086,29-06-2022,Books,36,1,1411,PayPal,39,0,"Angel Harris",39,Male,0,36,1,1,1,0,0
+8086,28-08-2020,Books,403,1,3456,Cash,39,1,"Angel Harris",39,Male,0,403,1,1,1,1,0
+46717,22-08-2020,Home,126,3,4394,PayPal,44,0,"Mary Nguyen",44,Female,0,378,1,1,1,0,0
+46717,25-01-2020,Electronics,319,4,4076,PayPal,44,1,"Mary Nguyen",44,Female,0,1276,1,1,1,1,0
+46717,17-09-2021,Clothing,38,1,5160,Cash,44,0,"Mary Nguyen",44,Female,0,38,1,1,1,0,0
+37332,07-11-2022,Books,454,3,5176,"Credit Card",65,0,"Kayla Fleming",65,Female,0,1362,1,1,1,0,0
+37332,16-03-2022,Books,140,1,3951,"Credit Card",65,1,"Kayla Fleming",65,Female,0,140,1,1,1,1,0
+37332,04-12-2021,Electronics,421,3,3282,PayPal,65,1,"Kayla Fleming",65,Female,0,1263,1,1,1,1,0
+37332,30-07-2022,Clothing,367,2,4004,"Credit Card",65,0,"Kayla Fleming",65,Female,0,734,1,1,1,0,0
+37332,30-03-2021,Home,323,1,4237,Cash,65,1,"Kayla Fleming",65,Female,0,323,1,1,1,1,0
+37332,07-04-2021,Home,128,3,3765,Cash,65,1,"Kayla Fleming",65,Female,0,384,1,1,1,1,0
+37332,15-08-2021,Books,256,5,4771,"Credit Card",65,0,"Kayla Fleming",65,Female,0,1280,1,1,1,0,0
+37332,03-07-2020,Books,177,2,2044,"Credit Card",65,1,"Kayla Fleming",65,Female,0,354,1,1,1,1,0
+37332,03-06-2023,Clothing,209,1,3454,"Credit Card",65,1,"Kayla Fleming",65,Female,0,209,1,1,1,1,0
+37332,02-05-2022,Electronics,88,1,2825,"Credit Card",65,0,"Kayla Fleming",65,Female,0,88,1,1,1,0,0
+48175,14-05-2023,Home,50,1,1970,Cash,51,1,"Nancy Riley",51,Male,0,50,1,1,1,1,0
+48175,25-01-2023,Books,473,5,2246,PayPal,51,0,"Nancy Riley",51,Male,0,2365,1,1,1,0,0
+48175,25-06-2022,Books,485,5,2140,Cash,51,0,"Nancy Riley",51,Male,0,2425,1,1,1,0,0
+48175,02-11-2021,Clothing,83,4,887,Cash,51,1,"Nancy Riley",51,Male,0,332,1,1,1,1,0
+48175,29-09-2020,Home,373,3,4980,PayPal,51,0,"Nancy Riley",51,Male,0,1119,1,1,1,0,0
+48175,26-04-2023,Electronics,334,2,937,Cash,51,0,"Nancy Riley",51,Male,0,668,1,1,1,0,0
+48175,25-01-2021,Books,77,3,4803,PayPal,51,1,"Nancy Riley",51,Male,0,231,1,1,1,1,0
+48175,06-06-2022,Home,359,3,2981,"Credit Card",51,0,"Nancy Riley",51,Male,0,1077,1,1,1,0,0
+10481,01-09-2021,Books,229,2,4609,"Credit Card",61,0,"Stephanie Patel",61,Male,0,458,1,1,1,0,0
+10481,25-01-2022,Home,91,3,4914,PayPal,61,1,"Stephanie Patel",61,Male,0,273,1,1,1,1,0
+10481,30-03-2021,Electronics,341,3,1920,PayPal,61,0,"Stephanie Patel",61,Male,0,1023,1,1,1,0,0
+10481,20-03-2020,Clothing,311,5,1015,"Credit Card",61,1,"Stephanie Patel",61,Male,0,1555,1,1,1,1,0
+10481,19-09-2021,Electronics,313,2,4792,"Credit Card",61,1,"Stephanie Patel",61,Male,0,626,1,1,1,1,0
+10481,01-11-2021,Home,402,3,4702,PayPal,61,0,"Stephanie Patel",61,Male,0,1206,1,1,1,0,0
+42500,22-03-2023,Clothing,108,3,2936,"Credit Card",43,1,"Jasmine Miller",43,Female,0,324,1,1,1,1,0
+42500,26-02-2021,Home,97,2,3885,PayPal,43,0,"Jasmine Miller",43,Female,0,194,1,1,1,0,0
+42500,02-03-2021,Electronics,18,5,642,PayPal,43,0,"Jasmine Miller",43,Female,0,90,1,1,1,0,0
+42500,17-05-2020,Home,186,2,3319,"Credit Card",43,1,"Jasmine Miller",43,Female,0,372,1,1,1,1,0
+42500,15-02-2022,Books,62,4,865,PayPal,43,0,"Jasmine Miller",43,Female,0,248,1,1,1,0,0
+42500,02-04-2023,Electronics,374,3,1314,Cash,43,0,"Jasmine Miller",43,Female,0,1122,1,1,1,0,0
+42500,20-02-2023,Clothing,151,1,5167,Cash,43,1,"Jasmine Miller",43,Female,0,151,1,1,1,1,0
+42500,01-07-2021,Electronics,105,5,3056,Cash,43,0,"Jasmine Miller",43,Female,0,525,1,1,1,0,0
+42500,25-02-2022,Clothing,93,5,4369,Cash,43,1,"Jasmine Miller",43,Female,0,465,1,1,1,1,0
+45465,18-07-2023,Books,175,1,3992,PayPal,58,1,"Patrick Baker",58,Female,0,175,1,1,1,1,0
+45465,08-02-2020,Books,296,5,1925,"Credit Card",58,0,"Patrick Baker",58,Female,0,1480,1,1,1,0,0
+45465,10-08-2023,Electronics,199,1,3378,Cash,58,0,"Patrick Baker",58,Female,0,199,1,1,1,0,0
+45465,28-11-2022,Clothing,132,1,4083,PayPal,58,0,"Patrick Baker",58,Female,0,132,1,1,1,0,0
+45465,15-10-2020,Home,487,3,747,Cash,58,1,"Patrick Baker",58,Female,0,1461,1,1,1,1,0
+45465,28-09-2020,Books,179,1,2932,PayPal,58,0,"Patrick Baker",58,Female,0,179,1,1,1,0,0
+45465,11-03-2022,Home,113,2,1573,Cash,58,0,"Patrick Baker",58,Female,0,226,1,1,1,0,0
+45465,18-07-2021,Home,35,1,3543,Cash,58,0,"Patrick Baker",58,Female,0,35,1,1,1,0,0
+18433,13-01-2022,Books,496,3,1419,PayPal,60,1,"Joshua Wallace",60,Male,0,1488,1,1,1,1,0
+18433,15-04-2023,Books,419,2,2318,"Credit Card",60,0,"Joshua Wallace",60,Male,0,838,1,1,1,0,0
+18433,20-06-2020,Books,173,4,2812,PayPal,60,1,"Joshua Wallace",60,Male,0,692,1,1,1,1,0
+12338,25-06-2022,Electronics,24,1,3418,"Credit Card",21,1,"Sue Sawyer",21,Female,1,24,1,1,1,1,0
+12338,18-01-2020,Electronics,380,2,4075,PayPal,21,0,"Sue Sawyer",21,Female,1,760,1,1,1,0,0
+12338,03-09-2020,Clothing,125,1,4000,Cash,21,1,"Sue Sawyer",21,Female,1,125,1,1,1,1,0
+12338,28-09-2022,Clothing,427,2,3723,PayPal,21,1,"Sue Sawyer",21,Female,1,854,1,1,1,1,0
+12338,16-08-2023,Electronics,274,1,3680,Cash,21,1,"Sue Sawyer",21,Female,1,274,1,1,1,1,0
+12338,08-12-2020,Clothing,440,3,3668,PayPal,21,0,"Sue Sawyer",21,Female,1,1320,1,1,1,0,0
+9606,01-02-2021,Books,475,2,1952,PayPal,51,0,"Kevin Zimmerman",51,Male,0,950,1,1,1,0,0
+9606,22-03-2021,Electronics,493,4,1775,"Credit Card",51,0,"Kevin Zimmerman",51,Male,0,1972,1,1,1,0,0
+9606,02-09-2021,Books,63,3,2278,"Credit Card",51,0,"Kevin Zimmerman",51,Male,0,189,1,1,1,0,0
+9606,15-10-2020,Clothing,33,3,4799,Cash,51,0,"Kevin Zimmerman",51,Male,0,99,1,1,1,0,0
+44513,24-07-2023,Electronics,269,4,1190,PayPal,21,1,"Michael Perry",21,Female,0,1076,1,1,1,1,0
+44513,30-09-2022,Clothing,195,2,4708,Cash,21,0,"Michael Perry",21,Female,0,390,1,1,1,0,0
+44513,25-07-2023,Books,394,3,4583,"Credit Card",21,0,"Michael Perry",21,Female,0,1182,1,1,1,0,0
+7048,06-08-2021,Electronics,25,1,1004,PayPal,18,0,"Shawn Jensen",18,Male,0,25,1,1,1,0,0
+7048,09-11-2022,Clothing,148,1,333,PayPal,18,0,"Shawn Jensen",18,Male,0,148,1,1,1,0,0
+7048,22-02-2022,Clothing,396,5,1480,"Credit Card",18,1,"Shawn Jensen",18,Male,0,1980,1,1,1,1,0
+7048,26-07-2023,Home,213,1,3451,PayPal,18,1,"Shawn Jensen",18,Male,0,213,1,1,1,1,0
+7805,09-12-2021,Electronics,261,1,550,Cash,35,0,"Shawn Reynolds",35,Female,0,261,1,1,1,0,0
+7805,28-10-2021,Home,275,5,2592,"Credit Card",35,1,"Shawn Reynolds",35,Female,0,1375,1,1,1,1,0
+7805,31-05-2021,Clothing,242,2,2882,Cash,35,0,"Shawn Reynolds",35,Female,0,484,1,1,1,0,0
+7805,18-07-2023,Books,384,5,5070,PayPal,35,0,"Shawn Reynolds",35,Female,0,1920,1,1,1,0,0
+7805,21-08-2021,Electronics,140,5,2970,"Credit Card",35,1,"Shawn Reynolds",35,Female,0,700,1,1,1,1,0
+7805,09-10-2022,Clothing,207,4,4743,"Credit Card",35,0,"Shawn Reynolds",35,Female,0,828,1,1,1,0,0
+7805,20-07-2021,Books,209,1,1023,PayPal,35,1,"Shawn Reynolds",35,Female,0,209,1,1,1,1,0
+7805,30-08-2020,Home,239,5,824,PayPal,35,1,"Shawn Reynolds",35,Female,0,1195,1,1,1,1,0
+10762,07-04-2021,Books,196,5,1723,Cash,60,0,"Ashley Burton",60,Male,0,980,1,1,1,0,0
+10762,25-03-2021,Books,275,4,3001,"Credit Card",60,0,"Ashley Burton",60,Male,0,1100,1,1,1,0,0
+10762,17-04-2023,Electronics,181,1,655,"Credit Card",60,1,"Ashley Burton",60,Male,0,181,1,1,1,1,0
+10762,27-01-2020,Books,100,5,577,"Credit Card",60,0,"Ashley Burton",60,Male,0,500,1,1,1,0,0
+10762,06-07-2021,Home,452,1,2045,"Credit Card",60,1,"Ashley Burton",60,Male,0,452,1,1,1,1,0
+10762,07-11-2022,Clothing,253,5,1535,PayPal,60,0,"Ashley Burton",60,Male,0,1265,1,1,1,0,0
+10762,03-12-2022,Electronics,45,5,3204,Cash,60,0,"Ashley Burton",60,Male,0,225,1,1,1,0,0
+10762,04-05-2021,Home,119,2,1517,Cash,60,0,"Ashley Burton",60,Male,0,238,1,1,1,0,0
+10762,26-06-2023,Home,51,2,827,"Credit Card",60,0,"Ashley Burton",60,Male,0,102,1,1,1,0,0
+4272,30-12-2022,Home,101,1,2858,"Credit Card",44,0,"Scott Green",44,Female,0,101,1,1,1,0,0
+4272,27-11-2020,Clothing,364,4,1689,Cash,44,0,"Scott Green",44,Female,0,1456,1,1,1,0,0
+4272,06-09-2022,Electronics,133,5,3656,Cash,44,0,"Scott Green",44,Female,0,665,1,1,1,0,0
+4272,26-01-2022,Clothing,114,4,2517,"Credit Card",44,0,"Scott Green",44,Female,0,456,1,1,1,0,0
+11069,22-10-2020,Electronics,328,3,1431,PayPal,23,1,"Jennifer Ruiz",23,Female,0,984,1,1,1,1,0
+11069,15-05-2022,Home,57,2,2322,Cash,23,0,"Jennifer Ruiz",23,Female,0,114,1,1,1,0,0
+11069,26-01-2020,Clothing,71,3,139,PayPal,23,0,"Jennifer Ruiz",23,Female,0,213,1,1,1,0,0
+11069,06-04-2023,Home,240,5,1201,Cash,23,1,"Jennifer Ruiz",23,Female,0,1200,1,1,1,1,0
+11069,01-05-2021,Home,15,3,488,"Credit Card",23,0,"Jennifer Ruiz",23,Female,0,45,1,1,1,0,0
+46183,23-08-2021,Books,347,5,3300,Cash,69,0,"Christopher Hawkins",69,Female,0,1735,1,1,1,0,0
+46183,25-05-2022,Books,269,5,5106,Cash,69,1,"Christopher Hawkins",69,Female,0,1345,1,1,1,1,0
+46183,06-05-2023,Home,168,2,4185,"Credit Card",69,1,"Christopher Hawkins",69,Female,0,336,1,1,1,1,0
+46183,16-03-2020,Electronics,58,2,452,"Credit Card",69,0,"Christopher Hawkins",69,Female,0,116,1,1,1,0,0
+46183,23-01-2023,Books,294,3,1268,PayPal,69,0,"Christopher Hawkins",69,Female,0,882,1,1,1,0,0
+46183,29-08-2020,Home,276,4,1944,Cash,69,0,"Christopher Hawkins",69,Female,0,1104,1,1,1,0,0
+13534,14-03-2021,Books,404,3,844,PayPal,54,0,"Shane Martinez",54,Male,0,1212,1,1,1,0,0
+13534,25-04-2022,Books,249,4,2553,Cash,54,0,"Shane Martinez",54,Male,0,996,1,1,1,0,0
+13534,07-10-2022,Books,406,2,361,"Credit Card",54,1,"Shane Martinez",54,Male,0,812,1,1,1,1,0
+13534,14-02-2023,Books,218,3,2963,Cash,54,1,"Shane Martinez",54,Male,0,654,1,1,1,1,0
+13534,03-06-2023,Clothing,65,4,1340,Cash,54,0,"Shane Martinez",54,Male,0,260,1,1,1,0,0
+13534,30-06-2023,Clothing,186,5,4151,"Credit Card",54,1,"Shane Martinez",54,Male,0,930,1,1,1,1,0
+13534,24-10-2021,Books,243,2,442,PayPal,54,1,"Shane Martinez",54,Male,0,486,1,1,1,1,0
+13534,16-05-2023,Clothing,483,2,2449,Cash,54,0,"Shane Martinez",54,Male,0,966,1,1,1,0,0
+1298,13-12-2022,Home,426,4,1155,Cash,61,0,"Robert Hines",61,Male,0,1704,1,1,1,0,0
+1298,08-01-2021,Clothing,123,3,341,Cash,61,0,"Robert Hines",61,Male,0,369,1,1,1,0,0
+1298,14-05-2020,Books,354,2,4362,PayPal,61,0,"Robert Hines",61,Male,0,708,1,1,1,0,0
+1298,28-10-2022,Home,33,5,4028,PayPal,61,0,"Robert Hines",61,Male,0,165,1,1,1,0,0
+1298,27-05-2020,Home,454,3,3175,PayPal,61,0,"Robert Hines",61,Male,0,1362,1,1,1,0,0
+1298,22-10-2021,Books,425,1,5281,Cash,61,0,"Robert Hines",61,Male,0,425,1,1,1,0,0
+1298,05-12-2022,Home,186,1,2851,PayPal,61,1,"Robert Hines",61,Male,0,186,1,1,1,1,0
+5616,03-07-2023,Home,353,4,4287,PayPal,48,1,"Sarah Rodriguez",48,Male,0,1412,1,1,1,1,0
+5616,29-05-2020,Books,233,4,569,PayPal,48,0,"Sarah Rodriguez",48,Male,0,932,1,1,1,0,0
+5616,20-02-2021,Electronics,458,4,4588,PayPal,48,0,"Sarah Rodriguez",48,Male,0,1832,1,1,1,0,0
+5616,12-10-2022,Electronics,310,2,3008,"Credit Card",48,0,"Sarah Rodriguez",48,Male,0,620,1,1,1,0,0
+5616,17-01-2020,Books,168,3,4218,PayPal,48,0,"Sarah Rodriguez",48,Male,0,504,1,1,1,0,0
+5616,04-09-2020,Electronics,382,2,4320,Cash,48,1,"Sarah Rodriguez",48,Male,0,764,1,1,1,1,0
+38546,28-05-2022,Books,127,5,4878,"Credit Card",41,0,"Alicia Shaw",41,Female,0,635,1,1,1,0,0
+38546,09-06-2022,Electronics,109,2,2542,"Credit Card",41,0,"Alicia Shaw",41,Female,0,218,1,1,1,0,0
+38546,31-12-2020,Electronics,42,5,286,PayPal,41,1,"Alicia Shaw",41,Female,0,210,1,1,1,1,0
+38546,31-05-2022,Books,355,2,2267,PayPal,41,1,"Alicia Shaw",41,Female,0,710,1,1,1,1,0
+35164,28-07-2021,Home,314,1,2455,"Credit Card",58,0,"Diana Snow",58,Female,1,314,1,1,1,0,0
+35164,04-05-2021,Home,400,2,971,"Credit Card",58,0,"Diana Snow",58,Female,1,800,1,1,1,0,0
+35164,25-11-2022,Books,435,3,4681,Cash,58,0,"Diana Snow",58,Female,1,1305,1,1,1,0,0
+35164,01-02-2021,Electronics,109,3,5144,Cash,58,1,"Diana Snow",58,Female,1,327,1,1,1,1,0
+35164,12-02-2022,Electronics,198,1,4362,PayPal,58,0,"Diana Snow",58,Female,1,198,1,1,1,0,0
+35164,29-07-2020,Home,314,1,3782,PayPal,58,1,"Diana Snow",58,Female,1,314,1,1,1,1,0
+35164,24-05-2021,Books,398,1,558,PayPal,58,1,"Diana Snow",58,Female,1,398,1,1,1,1,0
+35164,31-12-2020,Home,96,2,2788,"Credit Card",58,1,"Diana Snow",58,Female,1,192,1,1,1,1,0
+35164,13-04-2023,Clothing,13,1,1447,PayPal,58,1,"Diana Snow",58,Female,1,13,1,1,1,1,0
+35164,05-08-2022,Home,96,5,3829,Cash,58,0,"Diana Snow",58,Female,1,480,1,1,1,0,0
+29493,28-12-2021,Books,355,2,1803,"Credit Card",67,1,"Sandra Simpson",67,Male,0,710,1,1,1,1,0
+29493,29-03-2020,Clothing,268,2,2031,PayPal,67,0,"Sandra Simpson",67,Male,0,536,1,1,1,0,0
+29493,02-01-2023,Home,29,4,3439,PayPal,67,1,"Sandra Simpson",67,Male,0,116,1,1,1,1,0
+29493,12-02-2021,Home,164,2,2065,"Credit Card",67,1,"Sandra Simpson",67,Male,0,328,1,1,1,1,0
+29493,15-12-2021,Home,248,1,2489,Cash,67,1,"Sandra Simpson",67,Male,0,248,1,1,1,1,0
+20394,06-06-2021,Electronics,300,1,1659,"Credit Card",61,1,"Shawn Stafford",61,Female,0,300,1,1,1,1,0
+20394,09-06-2020,Home,160,5,2528,"Credit Card",61,1,"Shawn Stafford",61,Female,0,800,1,1,1,1,0
+20394,16-05-2021,Books,411,2,4383,Cash,61,0,"Shawn Stafford",61,Female,0,822,1,1,1,0,0
+20394,27-09-2022,Clothing,16,2,3604,Cash,61,1,"Shawn Stafford",61,Female,0,32,1,1,1,1,0
+20394,16-05-2023,Electronics,447,5,2403,Cash,61,1,"Shawn Stafford",61,Female,0,2235,1,1,1,1,0
+25141,15-04-2021,Books,389,5,5136,Cash,37,0,"Steve Young",37,Female,0,1945,1,1,1,0,0
+25141,15-04-2022,Electronics,225,3,4280,PayPal,37,0,"Steve Young",37,Female,0,675,1,1,1,0,0
+25141,20-06-2021,Books,488,3,4504,PayPal,37,0,"Steve Young",37,Female,0,1464,1,1,1,0,0
+25141,04-05-2021,Home,322,1,568,PayPal,37,1,"Steve Young",37,Female,0,322,1,1,1,1,0
+25141,21-12-2022,Home,165,1,3207,Cash,37,0,"Steve Young",37,Female,0,165,1,1,1,0,0
+28484,24-10-2021,Books,36,5,2258,Cash,25,1,"Amber Crawford",25,Female,0,180,1,1,1,1,0
+28484,08-07-2021,Clothing,490,4,3326,"Credit Card",25,1,"Amber Crawford",25,Female,0,1960,1,1,1,1,0
+28484,14-05-2023,Clothing,396,3,4956,Cash,25,0,"Amber Crawford",25,Female,0,1188,1,1,1,0,0
+28484,26-05-2022,Electronics,88,3,4753,PayPal,25,0,"Amber Crawford",25,Female,0,264,1,1,1,0,0
+28484,29-06-2021,Electronics,107,5,1915,"Credit Card",25,1,"Amber Crawford",25,Female,0,535,1,1,1,1,0
+28484,11-06-2022,Books,312,4,2044,"Credit Card",25,1,"Amber Crawford",25,Female,0,1248,1,1,1,1,0
+28484,28-05-2022,Clothing,292,5,4827,Cash,25,0,"Amber Crawford",25,Female,0,1460,1,1,1,0,0
+19647,02-11-2022,Home,103,1,3699,"Credit Card",37,0,"Kelly Dean",37,Male,1,103,1,1,1,0,0
+19647,21-01-2021,Books,254,4,2347,PayPal,37,1,"Kelly Dean",37,Male,1,1016,1,1,1,1,0
+19647,21-02-2020,Books,338,4,3427,"Credit Card",37,0,"Kelly Dean",37,Male,1,1352,1,1,1,0,0
+19647,02-12-2020,Electronics,285,5,4139,PayPal,37,0,"Kelly Dean",37,Male,1,1425,1,1,1,0,0
+19647,16-12-2022,Home,279,5,2426,"Credit Card",37,1,"Kelly Dean",37,Male,1,1395,1,1,1,1,0
+19647,16-04-2020,Electronics,293,3,4259,"Credit Card",37,0,"Kelly Dean",37,Male,1,879,1,1,1,0,0
+41953,22-09-2020,Clothing,279,3,5319,PayPal,69,1,"Amber Lara",69,Female,0,837,1,1,1,1,0
+41953,03-10-2021,Electronics,125,3,984,Cash,69,1,"Amber Lara",69,Female,0,375,1,1,1,1,0
+41953,06-01-2021,Electronics,290,5,4485,Cash,69,0,"Amber Lara",69,Female,0,1450,1,1,1,0,0
+41953,12-01-2023,Clothing,500,1,2055,Cash,69,1,"Amber Lara",69,Female,0,500,1,1,1,1,0
+41953,02-08-2023,Books,33,3,4198,PayPal,69,0,"Amber Lara",69,Female,0,99,1,1,1,0,0
+41953,26-02-2022,Home,122,4,1626,"Credit Card",69,1,"Amber Lara",69,Female,0,488,1,1,1,1,0
+34666,30-07-2021,Electronics,71,5,2825,Cash,26,0,"Lori Hooper",26,Female,0,355,1,1,1,0,0
+34666,02-07-2021,Books,89,1,1625,"Credit Card",26,1,"Lori Hooper",26,Female,0,89,1,1,1,1,0
+34666,26-07-2023,Books,286,4,446,"Credit Card",26,1,"Lori Hooper",26,Female,0,1144,1,1,1,1,0
+48259,20-01-2022,Books,158,4,2750,"Credit Card",42,1,"Melanie Taylor",42,Female,0,632,1,1,1,1,0
+48259,26-01-2020,Clothing,115,1,1133,PayPal,42,1,"Melanie Taylor",42,Female,0,115,1,1,1,1,0
+48259,01-11-2021,Home,97,1,1744,Cash,42,0,"Melanie Taylor",42,Female,0,97,1,1,1,0,0
+48259,30-07-2023,Home,115,1,4807,PayPal,42,0,"Melanie Taylor",42,Female,0,115,1,1,1,0,0
+48259,23-11-2022,Clothing,78,4,4620,Cash,42,0,"Melanie Taylor",42,Female,0,312,1,1,1,0,0
+48259,24-04-2021,Electronics,22,2,1796,Cash,42,1,"Melanie Taylor",42,Female,0,44,1,1,1,1,0
+38905,07-10-2020,Clothing,76,2,4739,PayPal,38,0,"James Phillips",38,Male,0,152,1,1,1,0,0
+38905,10-11-2020,Clothing,66,1,2987,PayPal,38,0,"James Phillips",38,Male,0,66,1,1,1,0,0
+38905,25-06-2021,Books,301,1,1607,PayPal,38,0,"James Phillips",38,Male,0,301,1,1,1,0,0
+38905,14-06-2020,Clothing,102,2,3139,"Credit Card",38,1,"James Phillips",38,Male,0,204,1,1,1,1,0
+38905,29-12-2022,Books,190,2,1017,"Credit Card",38,0,"James Phillips",38,Male,0,380,1,1,1,0,0
+38905,28-04-2022,Electronics,198,1,2349,"Credit Card",38,1,"James Phillips",38,Male,0,198,1,1,1,1,0
+353,28-03-2022,Clothing,383,5,5129,"Credit Card",33,1,"Jessica Gardner",33,Female,1,1915,1,1,1,1,0
+353,02-07-2023,Clothing,93,5,712,Cash,33,0,"Jessica Gardner",33,Female,1,465,1,1,1,0,0
+353,24-04-2021,Books,263,1,3961,"Credit Card",33,1,"Jessica Gardner",33,Female,1,263,1,1,1,1,0
+353,02-07-2023,Electronics,424,5,1871,PayPal,33,0,"Jessica Gardner",33,Female,1,2120,1,1,1,0,0
+353,27-03-2020,Clothing,252,5,4250,PayPal,33,0,"Jessica Gardner",33,Female,1,1260,1,1,1,0,0
+353,16-01-2021,Books,15,5,2528,Cash,33,1,"Jessica Gardner",33,Female,1,75,1,1,1,1,0
+353,26-09-2020,Electronics,292,2,1047,Cash,33,1,"Jessica Gardner",33,Female,1,584,1,1,1,1,0
+2159,02-11-2022,Clothing,377,1,1286,"Credit Card",69,1,"Ashlee King",69,Female,0,377,1,1,1,1,0
+2159,04-01-2022,Electronics,41,3,5286,"Credit Card",69,0,"Ashlee King",69,Female,0,123,1,1,1,0,0
+2159,16-04-2020,Books,478,4,1776,PayPal,69,0,"Ashlee King",69,Female,0,1912,1,1,1,0,0
+2159,29-12-2022,Books,199,2,2004,"Credit Card",69,0,"Ashlee King",69,Female,0,398,1,1,1,0,0
+2159,03-05-2023,Clothing,70,3,2948,Cash,69,0,"Ashlee King",69,Female,0,210,1,1,1,0,0
+2159,08-04-2020,Electronics,497,5,3015,PayPal,69,0,"Ashlee King",69,Female,0,2485,1,1,1,0,0
+6704,28-02-2021,Home,387,4,4237,Cash,58,0,"Anthony Rich",58,Male,0,1548,1,1,1,0,0
+6704,25-01-2021,Electronics,371,5,1624,PayPal,58,0,"Anthony Rich",58,Male,0,1855,1,1,1,0,0
+6704,12-05-2023,Home,494,4,2940,Cash,58,1,"Anthony Rich",58,Male,0,1976,1,1,1,1,0
+6704,15-02-2021,Clothing,107,2,3630,Cash,58,0,"Anthony Rich",58,Male,0,214,1,1,1,0,0
+6704,26-03-2023,Home,93,1,916,"Credit Card",58,1,"Anthony Rich",58,Male,0,93,1,1,1,1,0
+6704,30-01-2020,Electronics,83,3,3948,Cash,58,1,"Anthony Rich",58,Male,0,249,1,1,1,1,0
+6704,17-03-2022,Books,40,2,562,PayPal,58,0,"Anthony Rich",58,Male,0,80,1,1,1,0,0
+6704,21-12-2021,Home,176,1,2682,PayPal,58,1,"Anthony Rich",58,Male,0,176,1,1,1,1,0
+6704,23-10-2020,Clothing,54,5,2808,"Credit Card",58,1,"Anthony Rich",58,Male,0,270,1,1,1,1,0
+32343,27-04-2020,Clothing,50,3,4161,PayPal,44,0,"Stephen Meadows",44,Male,1,150,1,1,1,0,0
+32343,04-07-2021,Clothing,493,3,4756,Cash,44,1,"Stephen Meadows",44,Male,1,1479,1,1,1,1,0
+32343,05-03-2021,Home,490,2,1887,Cash,44,1,"Stephen Meadows",44,Male,1,980,1,1,1,1,0
+32343,26-03-2022,Home,366,2,1120,Cash,44,1,"Stephen Meadows",44,Male,1,732,1,1,1,1,0
+32343,26-10-2021,Books,240,4,1149,Cash,44,1,"Stephen Meadows",44,Male,1,960,1,1,1,1,0
+15543,09-05-2023,Books,432,3,1088,"Credit Card",57,0,"Robert Hopkins",57,Male,0,1296,1,1,1,0,0
+15543,22-12-2020,Clothing,471,4,627,"Credit Card",57,1,"Robert Hopkins",57,Male,0,1884,1,1,1,1,0
+15543,15-05-2023,Books,212,2,2272,PayPal,57,1,"Robert Hopkins",57,Male,0,424,1,1,1,1,0
+15543,26-06-2020,Home,13,5,4009,"Credit Card",57,0,"Robert Hopkins",57,Male,0,65,1,1,1,0,0
+29419,12-08-2022,Home,11,4,747,"Credit Card",57,0,"Steven Allen",57,Female,0,44,1,1,1,0,0
+29419,29-11-2022,Clothing,78,1,4430,PayPal,57,1,"Steven Allen",57,Female,0,78,1,1,1,1,0
+29419,20-01-2020,Electronics,104,1,4913,"Credit Card",57,0,"Steven Allen",57,Female,0,104,1,1,1,0,0
+29419,21-02-2022,Books,93,2,1568,Cash,57,0,"Steven Allen",57,Female,0,186,1,1,1,0,0
+29419,25-02-2023,Books,127,3,610,"Credit Card",57,1,"Steven Allen",57,Female,0,381,1,1,1,1,0
+29419,15-08-2022,Home,339,5,4675,"Credit Card",57,1,"Steven Allen",57,Female,0,1695,1,1,1,1,0
+42327,13-04-2023,Electronics,364,1,4444,PayPal,20,0,"Matthew Hill DVM",20,Female,1,364,1,1,1,0,0
+42327,08-07-2020,Home,426,3,4364,Cash,20,0,"Matthew Hill DVM",20,Female,1,1278,1,1,1,0,0
+42327,06-07-2023,Books,224,2,4760,Cash,20,1,"Matthew Hill DVM",20,Female,1,448,1,1,1,1,0
+42327,05-07-2020,Clothing,281,1,4358,"Credit Card",20,1,"Matthew Hill DVM",20,Female,1,281,1,1,1,1,0
+42327,28-08-2021,Electronics,201,4,2340,PayPal,20,1,"Matthew Hill DVM",20,Female,1,804,1,1,1,1,0
+42327,12-04-2022,Clothing,88,4,2358,Cash,20,0,"Matthew Hill DVM",20,Female,1,352,1,1,1,0,0
+42327,28-05-2022,Books,449,3,2303,Cash,20,1,"Matthew Hill DVM",20,Female,1,1347,1,1,1,1,0
+19293,30-03-2022,Clothing,450,3,3518,PayPal,46,1,"James Bass",46,Female,0,1350,1,1,1,1,0
+19293,02-01-2020,Clothing,195,2,1898,"Credit Card",46,0,"James Bass",46,Female,0,390,1,1,1,0,0
+19293,29-10-2022,Home,299,1,3567,"Credit Card",46,1,"James Bass",46,Female,0,299,1,1,1,1,0
+24863,09-03-2021,Electronics,423,3,2548,"Credit Card",43,0,"Jordan Moore",43,Male,0,1269,1,1,1,0,0
+24863,09-02-2023,Clothing,270,2,3596,PayPal,43,0,"Jordan Moore",43,Male,0,540,1,1,1,0,0
+24863,04-04-2023,Clothing,102,3,1001,Cash,43,1,"Jordan Moore",43,Male,0,306,1,1,1,1,0
+24863,15-02-2022,Books,298,4,2767,Cash,43,0,"Jordan Moore",43,Male,0,1192,1,1,1,0,0
+24863,02-01-2023,Electronics,462,4,1952,Cash,43,1,"Jordan Moore",43,Male,0,1848,1,1,1,1,0
+24863,09-09-2023,Home,51,3,2521,"Credit Card",43,0,"Jordan Moore",43,Male,0,153,1,1,1,0,0
+42859,09-09-2023,Books,401,1,2643,"Credit Card",68,0,"Kenneth Soto",68,Female,1,401,1,1,1,0,0
+42859,19-08-2021,Home,180,2,2776,PayPal,68,0,"Kenneth Soto",68,Female,1,360,1,1,1,0,0
+42859,22-06-2022,Home,144,3,2393,Cash,68,0,"Kenneth Soto",68,Female,1,432,1,1,1,0,0
+42859,19-03-2021,Books,21,3,1065,Cash,68,0,"Kenneth Soto",68,Female,1,63,1,1,1,0,0
+42859,21-08-2023,Books,458,5,1643,Cash,68,0,"Kenneth Soto",68,Female,1,2290,1,1,1,0,0
+42859,11-11-2021,Books,125,2,2355,PayPal,68,0,"Kenneth Soto",68,Female,1,250,1,1,1,0,0
+42859,26-12-2022,Home,472,4,4770,Cash,68,0,"Kenneth Soto",68,Female,1,1888,1,1,1,0,0
+42859,06-06-2021,Home,42,5,2750,Cash,68,0,"Kenneth Soto",68,Female,1,210,1,1,1,0,0
+42859,03-03-2022,Electronics,90,3,2264,Cash,68,1,"Kenneth Soto",68,Female,1,270,1,1,1,1,0
+1364,13-04-2023,Electronics,174,3,4620,"Credit Card",24,0,"Melissa Molina",24,Female,0,522,1,1,1,0,0
+1364,20-11-2021,Clothing,319,5,4088,Cash,24,0,"Melissa Molina",24,Female,0,1595,1,1,1,0,0
+1364,21-07-2020,Home,220,2,4505,"Credit Card",24,0,"Melissa Molina",24,Female,0,440,1,1,1,0,0
+1364,13-11-2022,Home,375,3,2504,"Credit Card",24,1,"Melissa Molina",24,Female,0,1125,1,1,1,1,0
+1364,31-08-2023,Clothing,488,5,2082,"Credit Card",24,1,"Melissa Molina",24,Female,0,2440,1,1,1,1,0
+1364,11-10-2022,Home,197,5,5107,PayPal,24,1,"Melissa Molina",24,Female,0,985,1,1,1,1,0
+1364,20-03-2020,Electronics,266,4,3081,PayPal,24,0,"Melissa Molina",24,Female,0,1064,1,1,1,0,0
+1364,11-07-2020,Electronics,64,3,2515,"Credit Card",24,0,"Melissa Molina",24,Female,0,192,1,1,1,0,0
+3494,12-04-2023,Home,419,2,4150,"Credit Card",51,0,"Jessica Jimenez MD",51,Female,0,838,1,1,1,0,0
+3494,16-05-2023,Clothing,451,5,2264,"Credit Card",51,0,"Jessica Jimenez MD",51,Female,0,2255,1,1,1,0,0
+3494,25-02-2023,Electronics,302,2,344,PayPal,51,1,"Jessica Jimenez MD",51,Female,0,604,1,1,1,1,0
+3494,06-04-2021,Clothing,451,4,3641,Cash,51,0,"Jessica Jimenez MD",51,Female,0,1804,1,1,1,0,0
+3494,30-01-2023,Books,345,5,5143,"Credit Card",51,1,"Jessica Jimenez MD",51,Female,0,1725,1,1,1,1,0
+3494,30-06-2021,Electronics,419,3,1839,PayPal,51,1,"Jessica Jimenez MD",51,Female,0,1257,1,1,1,1,0
+3494,05-08-2023,Books,13,3,4017,PayPal,51,0,"Jessica Jimenez MD",51,Female,0,39,1,1,1,0,0
+4807,14-03-2022,Home,30,3,519,PayPal,59,0,"Mason Sanchez",59,Female,0,90,1,1,1,0,0
+4807,08-10-2020,Electronics,59,4,4512,PayPal,59,1,"Mason Sanchez",59,Female,0,236,1,1,1,1,0
+4807,13-11-2021,Books,273,4,4968,"Credit Card",59,1,"Mason Sanchez",59,Female,0,1092,1,1,1,1,0
+4807,23-01-2020,Books,41,1,5294,Cash,59,0,"Mason Sanchez",59,Female,0,41,1,1,1,0,0
+4807,31-05-2022,Clothing,443,3,1168,Cash,59,0,"Mason Sanchez",59,Female,0,1329,1,1,1,0,0
+4807,11-02-2021,Books,418,3,823,Cash,59,0,"Mason Sanchez",59,Female,0,1254,1,1,1,0,0
+4807,24-10-2021,Clothing,309,1,3552,PayPal,59,0,"Mason Sanchez",59,Female,0,309,1,1,1,0,0
+11116,06-11-2022,Electronics,330,1,2944,Cash,66,1,"Lauren Gregory",66,Female,0,330,1,1,1,1,0
+11116,10-05-2021,Home,432,2,5169,Cash,66,1,"Lauren Gregory",66,Female,0,864,1,1,1,1,0
+11116,22-02-2021,Home,351,4,4522,Cash,66,1,"Lauren Gregory",66,Female,0,1404,1,1,1,1,0
+11116,21-08-2020,Books,248,4,5297,PayPal,66,1,"Lauren Gregory",66,Female,0,992,1,1,1,1,0
+11116,07-06-2023,Home,219,2,2085,"Credit Card",66,1,"Lauren Gregory",66,Female,0,438,1,1,1,1,0
+11116,10-03-2022,Home,324,3,4744,"Credit Card",66,0,"Lauren Gregory",66,Female,0,972,1,1,1,0,0
+1975,20-08-2022,Books,166,3,4970,Cash,51,0,"Samuel Maldonado",51,Male,0,498,1,1,1,0,0
+1975,19-01-2021,Clothing,419,4,2460,"Credit Card",51,0,"Samuel Maldonado",51,Male,0,1676,1,1,1,0,0
+1975,05-12-2022,Electronics,149,2,2368,PayPal,51,1,"Samuel Maldonado",51,Male,0,298,1,1,1,1,0
+1975,02-06-2022,Electronics,296,2,1214,"Credit Card",51,1,"Samuel Maldonado",51,Male,0,592,1,1,1,1,0
+1975,22-08-2020,Electronics,43,2,2727,PayPal,51,0,"Samuel Maldonado",51,Male,0,86,1,1,1,0,0
+1975,05-01-2023,Books,241,5,1724,PayPal,51,0,"Samuel Maldonado",51,Male,0,1205,1,1,1,0,0
+1975,27-12-2022,Books,428,3,2315,Cash,51,0,"Samuel Maldonado",51,Male,0,1284,1,1,1,0,0
+27690,15-01-2022,Books,54,5,735,PayPal,57,0,"John Juarez",57,Female,0,270,1,1,1,0,0
+27690,17-02-2021,Books,488,2,420,PayPal,57,1,"John Juarez",57,Female,0,976,1,1,1,1,0
+27690,13-04-2022,Home,216,5,3200,PayPal,57,0,"John Juarez",57,Female,0,1080,1,1,1,0,0
+27690,13-08-2020,Electronics,214,3,3864,Cash,57,0,"John Juarez",57,Female,0,642,1,1,1,0,0
+27690,28-11-2022,Books,178,5,905,Cash,57,0,"John Juarez",57,Female,0,890,1,1,1,0,0
+27690,03-09-2023,Books,112,4,699,PayPal,57,0,"John Juarez",57,Female,0,448,1,1,1,0,0
+39126,25-09-2020,Electronics,270,4,2929,Cash,61,1,"Erica Duncan",61,Male,0,1080,1,1,1,1,0
+39126,12-03-2021,Home,428,1,5278,"Credit Card",61,1,"Erica Duncan",61,Male,0,428,1,1,1,1,0
+39126,14-05-2023,Books,77,1,3754,Cash,61,0,"Erica Duncan",61,Male,0,77,1,1,1,0,0
+10016,18-01-2023,Clothing,204,4,1863,Cash,57,1,"Robin West",57,Female,0,816,1,1,1,1,0
+10016,24-03-2021,Clothing,369,5,4183,Cash,57,1,"Robin West",57,Female,0,1845,1,1,1,1,0
+10016,19-07-2023,Clothing,140,2,4766,Cash,57,0,"Robin West",57,Female,0,280,1,1,1,0,0
+10016,20-10-2022,Home,137,5,4420,PayPal,57,0,"Robin West",57,Female,0,685,1,1,1,0,0
+37527,21-09-2020,Electronics,194,2,3290,PayPal,41,1,"Elizabeth Myers",41,Male,1,388,1,1,1,1,0
+37527,05-01-2023,Electronics,41,2,4035,PayPal,41,0,"Elizabeth Myers",41,Male,1,82,1,1,1,0,0
+37527,22-09-2021,Books,386,1,2417,"Credit Card",41,1,"Elizabeth Myers",41,Male,1,386,1,1,1,1,0
+37527,13-05-2021,Home,13,1,1188,Cash,41,1,"Elizabeth Myers",41,Male,1,13,1,1,1,1,0
+37527,26-10-2021,Books,117,4,1813,"Credit Card",41,1,"Elizabeth Myers",41,Male,1,468,1,1,1,1,0
+37527,14-05-2021,Home,113,3,4210,Cash,41,1,"Elizabeth Myers",41,Male,1,339,1,1,1,1,0
+37527,07-08-2023,Electronics,490,1,3182,"Credit Card",41,1,"Elizabeth Myers",41,Male,1,490,1,1,1,1,0
+37527,29-06-2020,Electronics,439,2,1137,PayPal,41,0,"Elizabeth Myers",41,Male,1,878,1,1,1,0,0
+37527,06-12-2020,Electronics,394,2,2082,PayPal,41,1,"Elizabeth Myers",41,Male,1,788,1,1,1,1,0
+48220,14-08-2023,Clothing,244,1,4133,Cash,51,0,"Yolanda Washington",51,Female,1,244,1,1,1,0,0
+48220,04-03-2021,Home,188,5,1638,"Credit Card",51,1,"Yolanda Washington",51,Female,1,940,1,1,1,1,0
+48220,16-11-2022,Clothing,473,5,2083,PayPal,51,1,"Yolanda Washington",51,Female,1,2365,1,1,1,1,0
+21954,14-02-2023,Electronics,494,2,3644,Cash,21,0,"Chad Blair",21,Female,0,988,1,1,1,0,0
+21954,23-06-2021,Clothing,12,3,3889,"Credit Card",21,0,"Chad Blair",21,Female,0,36,1,1,1,0,0
+21954,09-08-2023,Home,303,1,2525,PayPal,21,1,"Chad Blair",21,Female,0,303,1,1,1,1,0
+21954,19-12-2022,Home,389,4,830,Cash,21,0,"Chad Blair",21,Female,0,1556,1,1,1,0,0
+21954,20-06-2021,Clothing,218,2,3199,"Credit Card",21,1,"Chad Blair",21,Female,0,436,1,1,1,1,0
+21954,22-09-2021,Home,103,5,971,Cash,21,1,"Chad Blair",21,Female,0,515,1,1,1,1,0
+21954,01-04-2020,Books,481,3,2984,PayPal,21,0,"Chad Blair",21,Female,0,1443,1,1,1,0,0
+46055,04-12-2022,Books,475,3,4180,"Credit Card",41,0,"Krista Mullen",41,Female,0,1425,1,1,1,0,0
+46055,18-03-2022,Home,480,3,3702,PayPal,41,0,"Krista Mullen",41,Female,0,1440,1,1,1,0,0
+46055,27-02-2020,Books,403,5,4825,PayPal,41,1,"Krista Mullen",41,Female,0,2015,1,1,1,1,0
+46055,14-01-2023,Home,432,1,4732,Cash,41,1,"Krista Mullen",41,Female,0,432,1,1,1,1,0
+10125,08-01-2020,Electronics,458,2,4922,"Credit Card",19,0,"Elizabeth Haney",19,Male,0,916,1,1,1,0,0
+10125,23-04-2022,Electronics,140,2,3880,Cash,19,1,"Elizabeth Haney",19,Male,0,280,1,1,1,1,0
+10125,30-06-2023,Books,241,3,4449,Cash,19,1,"Elizabeth Haney",19,Male,0,723,1,1,1,1,0
+22074,14-07-2020,Electronics,390,1,2766,Cash,57,1,"Jacqueline Jones",57,Male,0,390,1,1,1,1,0
+22074,14-11-2022,Electronics,178,1,2992,PayPal,57,0,"Jacqueline Jones",57,Male,0,178,1,1,1,0,0
+22074,01-03-2020,Electronics,112,5,4693,PayPal,57,0,"Jacqueline Jones",57,Male,0,560,1,1,1,0,0
+22074,02-02-2020,Clothing,420,2,4502,Cash,57,0,"Jacqueline Jones",57,Male,0,840,1,1,1,0,0
+22074,30-12-2021,Home,23,5,3247,Cash,57,0,"Jacqueline Jones",57,Male,0,115,1,1,1,0,0
+22074,19-01-2021,Electronics,15,1,1641,"Credit Card",57,1,"Jacqueline Jones",57,Male,0,15,1,1,1,1,0
+22074,03-03-2021,Clothing,458,2,302,Cash,57,1,"Jacqueline Jones",57,Male,0,916,1,1,1,1,0
+22074,23-05-2020,Books,229,5,4086,Cash,57,0,"Jacqueline Jones",57,Male,0,1145,1,1,1,0,0
+22074,25-05-2021,Electronics,474,4,3094,PayPal,57,1,"Jacqueline Jones",57,Male,0,1896,1,1,1,1,0
+35531,03-08-2020,Home,466,2,3003,Cash,39,1,"Jonathan Marsh",39,Female,0,932,1,1,1,1,0
+35531,01-10-2021,Electronics,436,4,3070,PayPal,39,1,"Jonathan Marsh",39,Female,0,1744,1,1,1,1,0
+35531,30-07-2022,Books,91,1,1941,Cash,39,1,"Jonathan Marsh",39,Female,0,91,1,1,1,1,0
+35531,07-02-2023,Electronics,180,3,4981,Cash,39,1,"Jonathan Marsh",39,Female,0,540,1,1,1,1,0
+35531,26-11-2021,Clothing,366,2,4516,PayPal,39,0,"Jonathan Marsh",39,Female,0,732,1,1,1,0,0
+1193,26-03-2021,Books,84,3,1190,PayPal,44,0,"Xavier Wilson",44,Female,0,252,1,1,1,0,0
+1193,13-04-2021,Books,323,3,2814,Cash,44,0,"Xavier Wilson",44,Female,0,969,1,1,1,0,0
+1193,02-06-2021,Books,189,3,4757,PayPal,44,1,"Xavier Wilson",44,Female,0,567,1,1,1,1,0
+1193,14-01-2022,Clothing,194,4,2318,Cash,44,1,"Xavier Wilson",44,Female,0,776,1,1,1,1,0
+1193,21-05-2021,Home,302,3,506,"Credit Card",44,0,"Xavier Wilson",44,Female,0,906,1,1,1,0,0
+1193,15-09-2020,Electronics,280,5,4509,PayPal,44,0,"Xavier Wilson",44,Female,0,1400,1,1,1,0,0
+1193,18-05-2021,Books,272,4,381,"Credit Card",44,0,"Xavier Wilson",44,Female,0,1088,1,1,1,0,0
+1193,11-05-2021,Home,321,1,1179,Cash,44,0,"Xavier Wilson",44,Female,0,321,1,1,1,0,0
+1193,26-04-2021,Clothing,131,3,2013,Cash,44,0,"Xavier Wilson",44,Female,0,393,1,1,1,0,0
+1193,19-03-2021,Books,95,1,2206,Cash,44,0,"Xavier Wilson",44,Female,0,95,1,1,1,0,0
+21703,22-09-2022,Books,423,2,2593,PayPal,49,0,"Richard Khan",49,Female,0,846,1,1,1,0,0
+21703,15-01-2021,Books,229,4,4856,PayPal,49,1,"Richard Khan",49,Female,0,916,1,1,1,1,0
+21703,22-03-2022,Books,12,4,3569,Cash,49,0,"Richard Khan",49,Female,0,48,1,1,1,0,0
+21703,30-03-2023,Electronics,481,1,3815,Cash,49,1,"Richard Khan",49,Female,0,481,1,1,1,1,0
+21703,18-08-2022,Books,388,3,2181,PayPal,49,1,"Richard Khan",49,Female,0,1164,1,1,1,1,0
+21703,24-07-2021,Electronics,82,2,4041,"Credit Card",49,1,"Richard Khan",49,Female,0,164,1,1,1,1,0
+27337,28-03-2022,Electronics,411,5,863,"Credit Card",48,1,"Shelby Henry",48,Female,1,2055,1,1,1,1,0
+27337,07-11-2020,Electronics,404,5,1444,PayPal,48,1,"Shelby Henry",48,Female,1,2020,1,1,1,1,0
+27337,18-08-2023,Home,269,3,3569,"Credit Card",48,1,"Shelby Henry",48,Female,1,807,1,1,1,1,0
+27337,24-08-2021,Books,213,2,1521,Cash,48,1,"Shelby Henry",48,Female,1,426,1,1,1,1,0
+27337,11-08-2020,Books,96,2,2170,"Credit Card",48,1,"Shelby Henry",48,Female,1,192,1,1,1,1,0
+27337,07-04-2023,Home,299,4,609,PayPal,48,1,"Shelby Henry",48,Female,1,1196,1,1,1,1,0
+27337,13-07-2020,Clothing,368,5,537,PayPal,48,0,"Shelby Henry",48,Female,1,1840,1,1,1,0,0
+10458,26-07-2021,Clothing,77,2,3097,"Credit Card",65,0,"Luke West",65,Female,0,154,1,1,1,0,0
+10458,15-04-2021,Home,318,4,3610,PayPal,65,1,"Luke West",65,Female,0,1272,1,1,1,1,0
+10458,06-06-2022,Electronics,203,4,744,Cash,65,0,"Luke West",65,Female,0,812,1,1,1,0,0
+10458,22-11-2021,Home,148,4,1076,"Credit Card",65,0,"Luke West",65,Female,0,592,1,1,1,0,0
+10458,28-09-2021,Electronics,323,1,2338,Cash,65,1,"Luke West",65,Female,0,323,1,1,1,1,0
+10458,09-03-2021,Electronics,288,1,3156,PayPal,65,0,"Luke West",65,Female,0,288,1,1,1,0,0
+10458,15-02-2020,Books,226,1,2539,Cash,65,1,"Luke West",65,Female,0,226,1,1,1,1,0
+15399,16-01-2021,Clothing,367,4,4031,Cash,39,0,"Joshua Holden",39,Female,0,1468,1,1,1,0,0
+15399,11-05-2020,Home,397,1,3294,PayPal,39,1,"Joshua Holden",39,Female,0,397,1,1,1,1,0
+15399,08-01-2020,Clothing,411,2,5071,Cash,39,0,"Joshua Holden",39,Female,0,822,1,1,1,0,0
+15399,20-07-2022,Electronics,485,2,2500,"Credit Card",39,0,"Joshua Holden",39,Female,0,970,1,1,1,0,0
+15399,06-02-2022,Home,268,5,4138,Cash,39,0,"Joshua Holden",39,Female,0,1340,1,1,1,0,0
+15399,25-01-2023,Home,12,2,2740,Cash,39,1,"Joshua Holden",39,Female,0,24,1,1,1,1,0
+15399,17-08-2021,Electronics,139,4,2234,PayPal,39,1,"Joshua Holden",39,Female,0,556,1,1,1,1,0
+15399,24-07-2020,Electronics,229,3,3581,Cash,39,1,"Joshua Holden",39,Female,0,687,1,1,1,1,0
+18400,02-09-2023,Electronics,312,2,3857,"Credit Card",36,0,"Shelly Dorsey",36,Male,0,624,1,1,1,0,0
+18400,16-07-2020,Electronics,482,1,1796,Cash,36,1,"Shelly Dorsey",36,Male,0,482,1,1,1,1,0
+18400,24-03-2021,Electronics,436,3,234,"Credit Card",36,1,"Shelly Dorsey",36,Male,0,1308,1,1,1,1,0
+18400,12-09-2020,Electronics,179,4,4208,PayPal,36,1,"Shelly Dorsey",36,Male,0,716,1,1,1,1,0
+18400,20-10-2022,Clothing,479,4,720,PayPal,36,1,"Shelly Dorsey",36,Male,0,1916,1,1,1,1,0
+18400,11-09-2023,Home,61,4,3206,Cash,36,1,"Shelly Dorsey",36,Male,0,244,1,1,1,1,0
+18400,16-03-2022,Clothing,370,1,2292,PayPal,36,1,"Shelly Dorsey",36,Male,0,370,1,1,1,1,0
+48711,15-04-2023,Books,102,5,2025,Cash,65,0,"Michael Baker",65,Female,0,510,1,1,1,0,0
+48711,18-08-2020,Electronics,159,1,2386,"Credit Card",65,0,"Michael Baker",65,Female,0,159,1,1,1,0,0
+48711,29-04-2023,Electronics,455,2,915,"Credit Card",65,1,"Michael Baker",65,Female,0,910,1,1,1,1,0
+48711,11-12-2020,Books,87,5,2424,"Credit Card",65,1,"Michael Baker",65,Female,0,435,1,1,1,1,0
+48711,16-10-2020,Clothing,230,4,3985,"Credit Card",65,0,"Michael Baker",65,Female,0,920,1,1,1,0,0
+48711,17-11-2021,Home,285,2,5098,"Credit Card",65,1,"Michael Baker",65,Female,0,570,1,1,1,1,0
+48711,20-05-2023,Home,306,5,4947,Cash,65,1,"Michael Baker",65,Female,0,1530,1,1,1,1,0
+48711,07-07-2023,Clothing,258,4,567,"Credit Card",65,0,"Michael Baker",65,Female,0,1032,1,1,1,0,0
+48711,11-03-2021,Clothing,326,2,3776,PayPal,65,1,"Michael Baker",65,Female,0,652,1,1,1,1,0
+7090,02-12-2021,Electronics,149,1,3941,"Credit Card",37,1,"Andrew West",37,Female,0,149,1,1,1,1,0
+7090,15-05-2023,Clothing,142,4,2226,PayPal,37,0,"Andrew West",37,Female,0,568,1,1,1,0,0
+7090,29-01-2022,Electronics,56,1,3612,"Credit Card",37,0,"Andrew West",37,Female,0,56,1,1,1,0,0
+7090,15-01-2020,Home,434,3,4665,"Credit Card",37,1,"Andrew West",37,Female,0,1302,1,1,1,1,0
+7090,10-01-2020,Electronics,217,5,4795,PayPal,37,0,"Andrew West",37,Female,0,1085,1,1,1,0,0
+7090,31-05-2023,Home,26,2,2258,"Credit Card",37,0,"Andrew West",37,Female,0,52,1,1,1,0,0
+24534,03-08-2023,Books,358,4,3253,PayPal,54,1,"Paul Ford",54,Male,0,1432,1,1,1,1,0
+24534,13-03-2022,Clothing,259,3,4759,Cash,54,1,"Paul Ford",54,Male,0,777,1,1,1,1,0
+24534,18-02-2020,Clothing,386,4,5047,"Credit Card",54,0,"Paul Ford",54,Male,0,1544,1,1,1,0,0
+24534,11-08-2022,Electronics,87,1,2247,"Credit Card",54,1,"Paul Ford",54,Male,0,87,1,1,1,1,0
+24534,03-12-2022,Books,372,5,3710,Cash,54,1,"Paul Ford",54,Male,0,1860,1,1,1,1,0
+24534,18-02-2021,Clothing,453,2,1722,"Credit Card",54,1,"Paul Ford",54,Male,0,906,1,1,1,1,0
+2521,14-07-2021,Books,485,3,1216,Cash,50,0,"Deborah Miller",50,Male,0,1455,1,1,1,0,0
+2521,09-01-2022,Electronics,404,5,3059,PayPal,50,1,"Deborah Miller",50,Male,0,2020,1,1,1,1,0
+2521,17-10-2021,Electronics,436,3,1750,PayPal,50,1,"Deborah Miller",50,Male,0,1308,1,1,1,1,0
+2521,19-06-2022,Electronics,158,4,5153,"Credit Card",50,1,"Deborah Miller",50,Male,0,632,1,1,1,1,0
+2521,05-11-2020,Electronics,66,4,891,PayPal,50,1,"Deborah Miller",50,Male,0,264,1,1,1,1,0
+2521,20-03-2023,Electronics,21,1,1632,"Credit Card",50,1,"Deborah Miller",50,Male,0,21,1,1,1,1,0
+2521,01-09-2022,Clothing,408,4,1751,PayPal,50,1,"Deborah Miller",50,Male,0,1632,1,1,1,1,0
+2521,19-03-2021,Home,241,3,2482,Cash,50,0,"Deborah Miller",50,Male,0,723,1,1,1,0,0
+2521,21-05-2021,Electronics,361,4,2997,PayPal,50,0,"Deborah Miller",50,Male,0,1444,1,1,1,0,0
+5837,13-04-2020,Home,40,1,1653,"Credit Card",68,0,"Gary Wilson",68,Male,0,40,1,1,1,0,0
+5837,05-04-2022,Electronics,445,5,3600,"Credit Card",68,1,"Gary Wilson",68,Male,0,2225,1,1,1,1,0
+5837,13-09-2022,Clothing,94,3,4067,"Credit Card",68,0,"Gary Wilson",68,Male,0,282,1,1,1,0,0
+5837,28-10-2021,Books,410,5,4105,PayPal,68,1,"Gary Wilson",68,Male,0,2050,1,1,1,1,0
+5837,10-06-2020,Home,51,3,2024,PayPal,68,1,"Gary Wilson",68,Male,0,153,1,1,1,1,0
+5837,18-01-2023,Books,210,2,3326,PayPal,68,0,"Gary Wilson",68,Male,0,420,1,1,1,0,0
+4487,06-08-2023,Electronics,64,2,3826,"Credit Card",34,0,"Heather Jones",34,Female,1,128,1,1,1,0,0
+4487,18-12-2021,Clothing,368,5,1786,"Credit Card",34,0,"Heather Jones",34,Female,1,1840,1,1,1,0,0
+4487,06-08-2021,Books,119,5,1864,PayPal,34,1,"Heather Jones",34,Female,1,595,1,1,1,1,0
+4487,27-11-2020,Electronics,348,5,1580,"Credit Card",34,1,"Heather Jones",34,Female,1,1740,1,1,1,1,0
+4487,20-08-2022,Electronics,408,2,4181,"Credit Card",34,0,"Heather Jones",34,Female,1,816,1,1,1,0,0
+28778,26-04-2022,Electronics,154,3,4835,Cash,25,0,"Tammy Tucker",25,Male,0,462,1,1,1,0,0
+28778,05-04-2022,Books,164,2,4348,Cash,25,0,"Tammy Tucker",25,Male,0,328,1,1,1,0,0
+28778,26-05-2023,Electronics,139,2,955,PayPal,25,1,"Tammy Tucker",25,Male,0,278,1,1,1,1,0
+28778,25-04-2021,Electronics,488,3,872,"Credit Card",25,0,"Tammy Tucker",25,Male,0,1464,1,1,1,0,0
+28778,04-03-2022,Books,168,4,1631,PayPal,25,0,"Tammy Tucker",25,Male,0,672,1,1,1,0,0
+28778,18-01-2023,Clothing,371,3,4747,PayPal,25,0,"Tammy Tucker",25,Male,0,1113,1,1,1,0,0
+28778,29-10-2022,Home,454,2,758,PayPal,25,1,"Tammy Tucker",25,Male,0,908,1,1,1,1,0
+26860,25-06-2020,Home,284,5,3978,PayPal,53,1,"Emily Cruz",53,Male,1,1420,1,1,1,1,0
+26860,04-09-2022,Books,44,2,3407,"Credit Card",53,0,"Emily Cruz",53,Male,1,88,1,1,1,0,0
+26860,26-01-2021,Electronics,28,2,4131,Cash,53,0,"Emily Cruz",53,Male,1,56,1,1,1,0,0
+26860,19-07-2020,Home,269,2,2387,PayPal,53,0,"Emily Cruz",53,Male,1,538,1,1,1,0,0
+23168,14-09-2022,Clothing,110,1,4765,Cash,57,1,"Vanessa Lewis",57,Female,0,110,1,1,1,1,0
+23168,16-02-2020,Clothing,234,3,631,Cash,57,1,"Vanessa Lewis",57,Female,0,702,1,1,1,1,0
+23168,20-09-2022,Home,296,3,3679,PayPal,57,0,"Vanessa Lewis",57,Female,0,888,1,1,1,0,0
+23168,31-01-2021,Home,71,2,4309,PayPal,57,1,"Vanessa Lewis",57,Female,0,142,1,1,1,1,0
+23168,30-01-2020,Electronics,280,5,1038,"Credit Card",57,1,"Vanessa Lewis",57,Female,0,1400,1,1,1,1,0
+27357,11-04-2020,Home,176,1,4967,"Credit Card",65,0,"Kylie Kelley",65,Female,0,176,1,1,1,0,0
+27357,21-07-2022,Electronics,492,2,1817,"Credit Card",65,1,"Kylie Kelley",65,Female,0,984,1,1,1,1,0
+27357,13-10-2021,Home,55,1,4847,Cash,65,0,"Kylie Kelley",65,Female,0,55,1,1,1,0,0
+27357,18-04-2020,Home,78,2,3274,PayPal,65,1,"Kylie Kelley",65,Female,0,156,1,1,1,1,0
+27357,14-08-2020,Electronics,418,2,4016,"Credit Card",65,1,"Kylie Kelley",65,Female,0,836,1,1,1,1,0
+27357,02-12-2020,Books,152,3,740,"Credit Card",65,0,"Kylie Kelley",65,Female,0,456,1,1,1,0,0
+27357,10-06-2022,Clothing,326,1,3567,"Credit Card",65,0,"Kylie Kelley",65,Female,0,326,1,1,1,0,0
+27357,09-10-2021,Books,287,1,3232,"Credit Card",65,0,"Kylie Kelley",65,Female,0,287,1,1,1,0,0
+6795,19-08-2020,Books,127,2,3519,PayPal,65,0,"Jon Lynch",65,Male,0,254,1,1,1,0,0
+6795,11-04-2021,Clothing,366,2,2092,PayPal,65,1,"Jon Lynch",65,Male,0,732,1,1,1,1,0
+6795,28-03-2021,Electronics,228,3,2600,"Credit Card",65,0,"Jon Lynch",65,Male,0,684,1,1,1,0,0
+6795,11-01-2023,Books,460,3,1245,Cash,65,1,"Jon Lynch",65,Male,0,1380,1,1,1,1,0
+6795,20-10-2020,Clothing,286,4,834,Cash,65,0,"Jon Lynch",65,Male,0,1144,1,1,1,0,0
+6795,03-10-2020,Books,156,2,4544,PayPal,65,1,"Jon Lynch",65,Male,0,312,1,1,1,1,0
+6795,13-03-2020,Books,213,5,4900,"Credit Card",65,1,"Jon Lynch",65,Male,0,1065,1,1,1,1,0
+6795,06-12-2020,Electronics,493,4,1886,Cash,65,0,"Jon Lynch",65,Male,0,1972,1,1,1,0,0
+6795,16-06-2023,Home,51,1,3584,"Credit Card",65,0,"Jon Lynch",65,Male,0,51,1,1,1,0,0
+6320,20-08-2022,Books,499,5,1774,"Credit Card",25,0,"Tiffany Tanner",25,Male,0,2495,1,1,1,0,0
+6320,03-12-2021,Books,402,1,3561,Cash,25,0,"Tiffany Tanner",25,Male,0,402,1,1,1,0,0
+6320,17-09-2020,Books,27,2,2906,PayPal,25,0,"Tiffany Tanner",25,Male,0,54,1,1,1,0,0
+6320,17-03-2023,Books,336,1,1591,Cash,25,0,"Tiffany Tanner",25,Male,0,336,1,1,1,0,0
+6320,20-07-2020,Clothing,488,4,1342,Cash,25,1,"Tiffany Tanner",25,Male,0,1952,1,1,1,1,0
+6320,09-05-2020,Clothing,144,5,1081,"Credit Card",25,0,"Tiffany Tanner",25,Male,0,720,1,1,1,0,0
+6320,27-11-2021,Home,101,4,3386,Cash,25,1,"Tiffany Tanner",25,Male,0,404,1,1,1,1,0
+6320,22-12-2020,Home,82,2,871,PayPal,25,0,"Tiffany Tanner",25,Male,0,164,1,1,1,0,0
+6320,31-01-2020,Clothing,314,5,3633,"Credit Card",25,0,"Tiffany Tanner",25,Male,0,1570,1,1,1,0,0
+49031,07-06-2020,Clothing,483,2,1320,Cash,53,0,"Suzanne Martinez",53,Female,0,966,1,1,1,0,0
+49031,28-09-2020,Home,477,1,3508,PayPal,53,1,"Suzanne Martinez",53,Female,0,477,1,1,1,1,0
+49031,01-04-2022,Electronics,379,3,4604,PayPal,53,0,"Suzanne Martinez",53,Female,0,1137,1,1,1,0,0
+49031,20-11-2021,Clothing,268,2,2983,Cash,53,1,"Suzanne Martinez",53,Female,0,536,1,1,1,1,0
+49031,14-02-2022,Clothing,437,4,4705,Cash,53,1,"Suzanne Martinez",53,Female,0,1748,1,1,1,1,0
+9798,11-04-2022,Home,293,1,2869,Cash,19,0,"Beverly Martin",19,Female,0,293,1,1,1,0,0
+9798,09-07-2020,Books,376,1,3440,Cash,19,0,"Beverly Martin",19,Female,0,376,1,1,1,0,0
+9798,12-03-2022,Electronics,342,2,3645,PayPal,19,1,"Beverly Martin",19,Female,0,684,1,1,1,1,0
+9798,23-11-2022,Books,81,4,2540,Cash,19,0,"Beverly Martin",19,Female,0,324,1,1,1,0,0
+9798,30-05-2023,Clothing,271,2,3903,"Credit Card",19,1,"Beverly Martin",19,Female,0,542,1,1,1,1,0
+9798,17-07-2022,Electronics,167,4,858,PayPal,19,1,"Beverly Martin",19,Female,0,668,1,1,1,1,0
+9798,17-03-2023,Home,157,4,3043,"Credit Card",19,0,"Beverly Martin",19,Female,0,628,1,1,1,0,0
+9798,11-09-2021,Electronics,193,3,2600,"Credit Card",19,1,"Beverly Martin",19,Female,0,579,1,1,1,1,0
+14425,18-07-2021,Books,15,3,4165,"Credit Card",54,0,"Sarah Young",54,Male,0,45,1,1,1,0,0
+14425,26-06-2023,Electronics,266,5,2401,"Credit Card",54,0,"Sarah Young",54,Male,0,1330,1,1,1,0,0
+14425,17-08-2023,Books,203,1,3663,"Credit Card",54,0,"Sarah Young",54,Male,0,203,1,1,1,0,0
+14425,26-05-2023,Books,246,5,3731,"Credit Card",54,0,"Sarah Young",54,Male,0,1230,1,1,1,0,0
+35940,06-01-2020,Books,94,1,3719,"Credit Card",33,0,"Jacqueline Mcgee",33,Male,0,94,1,1,1,0,0
+35940,19-06-2022,Home,249,3,5081,PayPal,33,0,"Jacqueline Mcgee",33,Male,0,747,1,1,1,0,0
+35940,29-03-2020,Electronics,39,4,4041,Cash,33,1,"Jacqueline Mcgee",33,Male,0,156,1,1,1,1,0
+4098,23-05-2022,Home,16,4,4272,Cash,52,1,"Sarah Garrett",52,Female,0,64,1,1,1,1,0
+4098,03-09-2023,Books,479,5,1043,Cash,52,0,"Sarah Garrett",52,Female,0,2395,1,1,1,0,0
+14875,02-12-2022,Electronics,295,5,4353,Cash,67,0,"Christian Contreras",67,Male,1,1475,1,1,1,0,0
+14875,11-05-2021,Electronics,301,3,3730,Cash,67,0,"Christian Contreras",67,Male,1,903,1,1,1,0,0
+14875,01-08-2020,Clothing,469,5,1637,Cash,67,1,"Christian Contreras",67,Male,1,2345,1,1,1,1,0
+33471,26-06-2023,Home,442,2,2889,"Credit Card",30,0,"Valerie Brooks",30,Female,1,884,1,1,1,0,0
+33471,28-03-2023,Home,398,1,3621,"Credit Card",30,0,"Valerie Brooks",30,Female,1,398,1,1,1,0,0
+33471,06-02-2022,Books,465,5,4985,Cash,30,1,"Valerie Brooks",30,Female,1,2325,1,1,1,1,0
+33471,25-09-2022,Electronics,90,2,2018,PayPal,30,0,"Valerie Brooks",30,Female,1,180,1,1,1,0,0
+33471,08-03-2021,Home,234,4,1074,PayPal,30,0,"Valerie Brooks",30,Female,1,936,1,1,1,0,0
+33471,22-03-2020,Clothing,421,1,2603,"Credit Card",30,0,"Valerie Brooks",30,Female,1,421,1,1,1,0,0
+33471,06-05-2022,Clothing,164,3,1568,PayPal,30,1,"Valerie Brooks",30,Female,1,492,1,1,1,1,0
+33471,19-09-2022,Home,370,1,2972,Cash,30,1,"Valerie Brooks",30,Female,1,370,1,1,1,1,0
+33471,24-10-2021,Books,297,3,4544,"Credit Card",30,0,"Valerie Brooks",30,Female,1,891,1,1,1,0,0
+6003,06-11-2022,Clothing,66,1,1178,Cash,60,0,"Douglas Tyler",60,Female,0,66,1,1,1,0,0
+41194,25-12-2020,Electronics,460,3,1423,"Credit Card",54,0,"Mckenzie Christensen",54,Female,0,1380,1,1,1,0,0
+41194,05-11-2020,Home,173,4,2455,"Credit Card",54,1,"Mckenzie Christensen",54,Female,0,692,1,1,1,1,0
+41194,12-01-2020,Electronics,350,3,2641,PayPal,54,1,"Mckenzie Christensen",54,Female,0,1050,1,1,1,1,0
+41194,11-10-2022,Home,237,4,5145,Cash,54,0,"Mckenzie Christensen",54,Female,0,948,1,1,1,0,0
+41194,03-09-2022,Home,277,3,2342,"Credit Card",54,1,"Mckenzie Christensen",54,Female,0,831,1,1,1,1,0
+41194,09-06-2020,Electronics,215,4,4805,"Credit Card",54,0,"Mckenzie Christensen",54,Female,0,860,1,1,1,0,0
+41194,10-04-2022,Electronics,212,4,3686,PayPal,54,1,"Mckenzie Christensen",54,Female,0,848,1,1,1,1,0
+41194,25-07-2023,Home,74,5,3417,Cash,54,1,"Mckenzie Christensen",54,Female,0,370,1,1,1,1,0
+38837,27-09-2020,Electronics,452,3,1147,Cash,54,0,"James Warren",54,Female,1,1356,1,1,1,0,0
+38837,18-04-2021,Electronics,344,2,4394,Cash,54,0,"James Warren",54,Female,1,688,1,1,1,0,0
+38837,27-03-2023,Electronics,14,4,3574,Cash,54,0,"James Warren",54,Female,1,56,1,1,1,0,0
+38837,03-01-2022,Books,94,1,1768,"Credit Card",54,0,"James Warren",54,Female,1,94,1,1,1,0,0
+22451,24-04-2021,Home,269,4,433,PayPal,52,0,"Julie Scott",52,Female,0,1076,1,1,1,0,0
+22451,14-10-2021,Home,467,3,1979,Cash,52,0,"Julie Scott",52,Female,0,1401,1,1,1,0,0
+22451,15-08-2022,Clothing,108,1,4297,"Credit Card",52,1,"Julie Scott",52,Female,0,108,1,1,1,1,0
+22451,03-06-2023,Books,87,3,646,Cash,52,0,"Julie Scott",52,Female,0,261,1,1,1,0,0
+22451,15-03-2020,Books,107,2,510,"Credit Card",52,0,"Julie Scott",52,Female,0,214,1,1,1,0,0
+22451,18-12-2020,Home,397,1,1358,Cash,52,0,"Julie Scott",52,Female,0,397,1,1,1,0,0
+22451,29-11-2022,Electronics,205,1,1715,Cash,52,0,"Julie Scott",52,Female,0,205,1,1,1,0,0
+22451,03-09-2020,Clothing,363,2,491,"Credit Card",52,0,"Julie Scott",52,Female,0,726,1,1,1,0,0
+22451,16-04-2023,Books,350,2,899,"Credit Card",52,0,"Julie Scott",52,Female,0,700,1,1,1,0,0
+18896,14-01-2023,Books,244,4,1478,PayPal,55,1,"Crystal Yoder",55,Female,0,976,1,1,1,1,0
+18896,13-07-2021,Clothing,325,4,4790,PayPal,55,0,"Crystal Yoder",55,Female,0,1300,1,1,1,0,0
+18896,04-08-2023,Home,200,1,1697,PayPal,55,1,"Crystal Yoder",55,Female,0,200,1,1,1,1,0
+8937,01-04-2023,Clothing,345,4,1487,Cash,19,1,"Richard Thompson",19,Male,0,1380,1,1,1,1,0
+8937,21-04-2020,Home,37,5,3678,Cash,19,0,"Richard Thompson",19,Male,0,185,1,1,1,0,0
+30778,18-12-2022,Electronics,280,3,1237,PayPal,32,0,"Stephanie Johnson",32,Male,0,840,1,1,1,0,0
+30778,20-07-2020,Home,193,5,4969,PayPal,32,1,"Stephanie Johnson",32,Male,0,965,1,1,1,1,0
+30778,23-05-2020,Books,84,4,3074,"Credit Card",32,1,"Stephanie Johnson",32,Male,0,336,1,1,1,1,0
+48283,02-06-2022,Books,341,3,2694,Cash,50,1,"John Wilcox",50,Female,0,1023,1,1,1,1,0
+48283,19-06-2023,Books,290,1,3134,"Credit Card",50,0,"John Wilcox",50,Female,0,290,1,1,1,0,0
+48283,09-09-2020,Electronics,278,3,3243,Cash,50,0,"John Wilcox",50,Female,0,834,1,1,1,0,0
+48283,29-05-2020,Books,187,3,2630,"Credit Card",50,0,"John Wilcox",50,Female,0,561,1,1,1,0,0
+48283,14-05-2021,Home,132,4,2650,Cash,50,1,"John Wilcox",50,Female,0,528,1,1,1,1,0
+48313,10-05-2023,Electronics,348,5,5039,Cash,19,0,"John Simpson",19,Female,1,1740,1,1,1,0,0
+48313,06-03-2020,Home,407,5,2898,PayPal,19,1,"John Simpson",19,Female,1,2035,1,1,1,1,0
+48313,24-02-2022,Clothing,284,3,960,Cash,19,0,"John Simpson",19,Female,1,852,1,1,1,0,0
+7832,03-08-2023,Books,45,2,4417,PayPal,43,1,"Angela Porter",43,Male,0,90,1,1,1,1,0
+7832,15-10-2022,Clothing,120,3,2345,Cash,43,1,"Angela Porter",43,Male,0,360,1,1,1,1,0
+7832,05-06-2021,Electronics,110,4,3334,PayPal,43,1,"Angela Porter",43,Male,0,440,1,1,1,1,0
+7832,05-02-2020,Home,42,4,425,PayPal,43,1,"Angela Porter",43,Male,0,168,1,1,1,1,0
+7832,24-12-2021,Books,284,3,1514,"Credit Card",43,0,"Angela Porter",43,Male,0,852,1,1,1,0,0
+7832,08-04-2023,Home,481,4,4308,Cash,43,0,"Angela Porter",43,Male,0,1924,1,1,1,0,0
+7832,05-01-2023,Clothing,360,2,3919,"Credit Card",43,0,"Angela Porter",43,Male,0,720,1,1,1,0,0
+19150,23-05-2023,Books,334,2,2237,Cash,20,0,"Michael Moore",20,Male,0,668,1,1,1,0,0
+19150,23-11-2022,Books,204,3,1319,PayPal,20,1,"Michael Moore",20,Male,0,612,1,1,1,1,0
+19150,15-05-2023,Electronics,316,3,4819,PayPal,20,0,"Michael Moore",20,Male,0,948,1,1,1,0,0
+19150,24-01-2023,Clothing,387,4,2118,"Credit Card",20,0,"Michael Moore",20,Male,0,1548,1,1,1,0,0
+35194,29-03-2020,Clothing,154,5,528,PayPal,40,0,"Philip Hinton",40,Female,0,770,1,1,1,0,0
+35194,24-03-2020,Books,49,3,1805,Cash,40,1,"Philip Hinton",40,Female,0,147,1,1,1,1,0
+35194,10-09-2022,Home,258,2,545,PayPal,40,0,"Philip Hinton",40,Female,0,516,1,1,1,0,0
+35194,06-03-2022,Books,288,2,4073,Cash,40,1,"Philip Hinton",40,Female,0,576,1,1,1,1,0
+35194,29-09-2021,Books,479,2,3296,Cash,40,0,"Philip Hinton",40,Female,0,958,1,1,1,0,0
+35194,15-11-2020,Clothing,457,3,4281,"Credit Card",40,1,"Philip Hinton",40,Female,0,1371,1,1,1,1,0
+28994,03-02-2022,Clothing,40,1,2994,PayPal,51,0,"Samantha Ruiz",51,Female,0,40,1,1,1,0,0
+28994,29-11-2022,Clothing,302,4,3380,Cash,51,0,"Samantha Ruiz",51,Female,0,1208,1,1,1,0,0
+28994,15-08-2020,Electronics,95,4,5076,PayPal,51,1,"Samantha Ruiz",51,Female,0,380,1,1,1,1,0
+28994,13-09-2020,Clothing,400,4,661,Cash,51,0,"Samantha Ruiz",51,Female,0,1600,1,1,1,0,0
+28994,20-10-2021,Books,21,3,5091,"Credit Card",51,1,"Samantha Ruiz",51,Female,0,63,1,1,1,1,0
+28994,16-03-2020,Electronics,101,5,2773,PayPal,51,1,"Samantha Ruiz",51,Female,0,505,1,1,1,1,0
+14579,08-04-2022,Books,182,3,2917,Cash,42,0,"Anthony Thomas",42,Female,1,546,1,1,1,0,0
+14579,08-09-2022,Clothing,119,4,1913,"Credit Card",42,0,"Anthony Thomas",42,Female,1,476,1,1,1,0,0
+14579,02-01-2022,Home,186,3,5130,PayPal,42,0,"Anthony Thomas",42,Female,1,558,1,1,1,0,0
+14579,31-03-2023,Home,297,3,4903,Cash,42,1,"Anthony Thomas",42,Female,1,891,1,1,1,1,0
+14579,11-01-2022,Electronics,287,3,3024,PayPal,42,1,"Anthony Thomas",42,Female,1,861,1,1,1,1,0
+45612,13-09-2023,Books,397,2,1855,PayPal,49,0,"Brandon Lee",49,Male,0,794,1,1,1,0,0
+45612,21-04-2023,Electronics,383,3,4670,Cash,49,0,"Brandon Lee",49,Male,0,1149,1,1,1,0,0
+45612,14-08-2022,Books,291,1,3414,Cash,49,1,"Brandon Lee",49,Male,0,291,1,1,1,1,0
+45612,19-12-2020,Electronics,261,5,1109,"Credit Card",49,1,"Brandon Lee",49,Male,0,1305,1,1,1,1,0
+45612,18-03-2023,Clothing,369,1,3037,PayPal,49,1,"Brandon Lee",49,Male,0,369,1,1,1,1,0
+45612,10-08-2020,Home,316,4,1182,"Credit Card",49,0,"Brandon Lee",49,Male,0,1264,1,1,1,0,0
+45612,04-12-2020,Home,48,5,1533,Cash,49,0,"Brandon Lee",49,Male,0,240,1,1,1,0,0
+20426,05-07-2022,Books,39,2,2027,PayPal,26,0,"Sarah Flowers",26,Female,0,78,1,1,1,0,0
+20426,09-03-2023,Books,498,2,403,PayPal,26,1,"Sarah Flowers",26,Female,0,996,1,1,1,1,0
+20426,05-05-2023,Clothing,310,5,4031,Cash,26,1,"Sarah Flowers",26,Female,0,1550,1,1,1,1,0
+20426,12-09-2020,Home,488,2,4335,"Credit Card",26,1,"Sarah Flowers",26,Female,0,976,1,1,1,1,0
+43648,20-07-2020,Electronics,393,1,4212,"Credit Card",35,0,"Sydney Mcguire",35,Female,0,393,1,1,1,0,0
+43648,24-04-2023,Books,353,3,1919,Cash,35,1,"Sydney Mcguire",35,Female,0,1059,1,1,1,1,0
+43648,04-07-2021,Electronics,438,2,1795,"Credit Card",35,1,"Sydney Mcguire",35,Female,0,876,1,1,1,1,0
+43648,05-06-2023,Home,96,2,4158,"Credit Card",35,0,"Sydney Mcguire",35,Female,0,192,1,1,1,0,0
+6460,12-04-2022,Books,52,5,1121,PayPal,56,0,"Tyler Fernandez",56,Male,0,260,1,1,1,0,0
+6460,11-02-2021,Books,346,3,1209,PayPal,56,0,"Tyler Fernandez",56,Male,0,1038,1,1,1,0,0
+6460,20-09-2022,Home,351,3,2629,"Credit Card",56,1,"Tyler Fernandez",56,Male,0,1053,1,1,1,1,0
+6460,06-11-2022,Clothing,183,1,1051,Cash,56,1,"Tyler Fernandez",56,Male,0,183,1,1,1,1,0
+6460,29-04-2021,Clothing,459,4,899,Cash,56,0,"Tyler Fernandez",56,Male,0,1836,1,1,1,0,0
+6460,15-09-2021,Home,28,5,3411,"Credit Card",56,0,"Tyler Fernandez",56,Male,0,140,1,1,1,0,0
+6460,20-05-2023,Books,388,2,4655,PayPal,56,0,"Tyler Fernandez",56,Male,0,776,1,1,1,0,0
+6460,08-05-2023,Clothing,35,3,3254,PayPal,56,0,"Tyler Fernandez",56,Male,0,105,1,1,1,0,0
+6460,25-07-2020,Clothing,402,2,4612,PayPal,56,0,"Tyler Fernandez",56,Male,0,804,1,1,1,0,0
+6460,18-01-2020,Electronics,97,2,2446,"Credit Card",56,0,"Tyler Fernandez",56,Male,0,194,1,1,1,0,0
+6460,12-11-2020,Electronics,237,2,901,PayPal,56,0,"Tyler Fernandez",56,Male,0,474,1,1,1,0,0
+37543,01-04-2022,Clothing,300,5,474,PayPal,23,1,"Paul Hicks",23,Female,0,1500,1,1,1,1,0
+37543,28-07-2023,Books,260,3,690,Cash,23,0,"Paul Hicks",23,Female,0,780,1,1,1,0,0
+37543,10-10-2021,Clothing,226,4,1105,Cash,23,0,"Paul Hicks",23,Female,0,904,1,1,1,0,0
+37543,25-05-2022,Clothing,86,2,2966,PayPal,23,1,"Paul Hicks",23,Female,0,172,1,1,1,1,0
+37543,17-12-2020,Clothing,303,3,4251,Cash,23,0,"Paul Hicks",23,Female,0,909,1,1,1,0,0
+37543,22-10-2021,Books,474,3,5023,Cash,23,0,"Paul Hicks",23,Female,0,1422,1,1,1,0,0
+6501,10-07-2021,Books,179,3,2419,PayPal,42,1,"Sara Flores",42,Female,0,537,1,1,1,1,0
+6501,11-12-2020,Books,305,2,1481,Cash,42,1,"Sara Flores",42,Female,0,610,1,1,1,1,0
+6501,01-06-2021,Books,82,4,4209,PayPal,42,1,"Sara Flores",42,Female,0,328,1,1,1,1,0
+4919,11-10-2020,Electronics,26,3,3705,"Credit Card",20,0,"Michael Jimenez",20,Male,0,78,1,1,1,0,0
+4919,06-10-2022,Electronics,286,3,1830,"Credit Card",20,0,"Michael Jimenez",20,Male,0,858,1,1,1,0,0
+4919,05-06-2023,Electronics,207,3,4176,Cash,20,0,"Michael Jimenez",20,Male,0,621,1,1,1,0,0
+4919,03-12-2020,Electronics,451,5,3266,"Credit Card",20,1,"Michael Jimenez",20,Male,0,2255,1,1,1,1,0
+5538,30-04-2020,Electronics,247,1,2373,"Credit Card",31,0,"Lisa Walters",31,Female,0,247,1,1,1,0,0
+5538,10-01-2021,Books,300,3,1859,Cash,31,1,"Lisa Walters",31,Female,0,900,1,1,1,1,0
+5538,26-07-2022,Books,398,3,1991,"Credit Card",31,0,"Lisa Walters",31,Female,0,1194,1,1,1,0,0
+5538,28-12-2022,Electronics,111,2,1683,Cash,31,0,"Lisa Walters",31,Female,0,222,1,1,1,0,0
+9687,03-11-2021,Books,215,2,4057,"Credit Card",64,1,"Sherri Jones",64,Female,0,430,1,1,1,1,0
+9687,16-12-2020,Home,306,1,945,PayPal,64,0,"Sherri Jones",64,Female,0,306,1,1,1,0,0
+9687,24-09-2021,Home,473,4,2402,PayPal,64,1,"Sherri Jones",64,Female,0,1892,1,1,1,1,0
+9687,16-07-2023,Clothing,38,3,2354,Cash,64,1,"Sherri Jones",64,Female,0,114,1,1,1,1,0
+9687,17-09-2021,Books,305,4,499,Cash,64,0,"Sherri Jones",64,Female,0,1220,1,1,1,0,0
+33654,01-03-2020,Books,379,1,3162,PayPal,31,0,"James Crane",31,Male,0,379,1,1,1,0,0
+33654,06-04-2021,Electronics,257,3,854,Cash,31,0,"James Crane",31,Male,0,771,1,1,1,0,0
+45363,23-11-2022,Clothing,423,3,2679,Cash,69,1,"Debra Brown",69,Female,0,1269,1,1,1,1,0
+45363,13-06-2021,Books,84,1,1382,PayPal,69,0,"Debra Brown",69,Female,0,84,1,1,1,0,0
+45363,14-03-2020,Home,441,2,3740,Cash,69,1,"Debra Brown",69,Female,0,882,1,1,1,1,0
+45363,26-12-2021,Clothing,187,2,1531,PayPal,69,0,"Debra Brown",69,Female,0,374,1,1,1,0,0
+5737,01-01-2022,Clothing,41,2,1625,Cash,56,1,"Jennifer Taylor",56,Male,0,82,1,1,1,1,0
+5737,26-07-2020,Clothing,147,2,3836,"Credit Card",56,0,"Jennifer Taylor",56,Male,0,294,1,1,1,0,0
+5737,23-03-2023,Clothing,142,5,851,"Credit Card",56,1,"Jennifer Taylor",56,Male,0,710,1,1,1,1,0
+41540,13-07-2020,Home,385,4,2869,PayPal,68,0,"John Turner",68,Female,1,1540,1,1,1,0,0
+41540,12-04-2022,Electronics,313,1,1404,PayPal,68,0,"John Turner",68,Female,1,313,1,1,1,0,0
+41540,25-06-2021,Clothing,51,2,4216,PayPal,68,0,"John Turner",68,Female,1,102,1,1,1,0,0
+41540,29-05-2020,Clothing,489,5,1499,"Credit Card",68,0,"John Turner",68,Female,1,2445,1,1,1,0,0
+41540,27-02-2022,Clothing,368,4,3581,Cash,68,0,"John Turner",68,Female,1,1472,1,1,1,0,0
+41540,30-01-2021,Home,299,3,2242,PayPal,68,1,"John Turner",68,Female,1,897,1,1,1,1,0
+41540,25-07-2022,Electronics,148,1,1814,"Credit Card",68,0,"John Turner",68,Female,1,148,1,1,1,0,0

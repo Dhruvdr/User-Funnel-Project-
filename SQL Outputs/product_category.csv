@@ -1,0 +1,5 @@
+"Product Category",total_customers,converted_customers,total_revenue,avg_order_value,conversion_rate_percent
+Books,8671,8671,44323250,5111.67,100.00
+Clothing,8714,8714,44534724,5110.71,100.00
+Electronics,8736,8736,44925683,5142.59,100.00
+Home,8713,8713,44441998,5100.65,100.00

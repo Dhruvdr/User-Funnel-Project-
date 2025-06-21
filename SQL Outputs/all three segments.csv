@@ -1,0 +1,41 @@
+Gender,age_group,"Product Category",customer_segment,total_customers,converted_customers,total_revenue,avg_order_value,conversion_rate_percent
+Female,25–34,Books,"Female, 25–34, Books",847,847,4247242,5014.45,100.00
+Female,25–34,Clothing,"Female, 25–34, Clothing",873,873,4239198,4855.9,100.00
+Female,25–34,Electronics,"Female, 25–34, Electronics",890,890,4389509,4932.03,100.00
+Female,25–34,Home,"Female, 25–34, Home",886,886,4470720,5045.96,100.00
+Female,35–44,Books,"Female, 35–44, Books",821,821,4165880,5074.15,100.00
+Female,35–44,Clothing,"Female, 35–44, Clothing",847,847,4320981,5101.51,100.00
+Female,35–44,Electronics,"Female, 35–44, Electronics",825,825,4155022,5036.39,100.00
+Female,35–44,Home,"Female, 35–44, Home",835,835,4313694,5166.1,100.00
+Female,45–54,Books,"Female, 45–54, Books",813,813,4047396,4978.35,100.00
+Female,45–54,Clothing,"Female, 45–54, Clothing",812,812,4422186,5446.04,100.00
+Female,45–54,Electronics,"Female, 45–54, Electronics",794,794,4148326,5224.59,100.00
+Female,45–54,Home,"Female, 45–54, Home",776,776,4052600,5222.42,100.00
+Female,55+,Books,"Female, 55+, Books",1260,1260,6711299,5326.43,100.00
+Female,55+,Clothing,"Female, 55+, Clothing",1252,1252,6786818,5420.78,100.00
+Female,55+,Electronics,"Female, 55+, Electronics",1293,1293,6898726,5335.44,100.00
+Female,55+,Home,"Female, 55+, Home",1267,1267,6629410,5232.37,100.00
+Female,"Under 25",Books,"Female, Under 25, Books",592,592,2939458,4965.3,100.00
+Female,"Under 25",Clothing,"Female, Under 25, Clothing",585,585,2881434,4925.53,100.00
+Female,"Under 25",Electronics,"Female, Under 25, Electronics",588,588,2796059,4755.2,100.00
+Female,"Under 25",Home,"Female, Under 25, Home",612,612,2978891,4867.47,100.00
+Male,25–34,Books,"Male, 25–34, Books",823,823,4084402,4962.82,100.00
+Male,25–34,Clothing,"Male, 25–34, Clothing",822,822,4018899,4889.17,100.00
+Male,25–34,Electronics,"Male, 25–34, Electronics",831,831,4089542,4921.23,100.00
+Male,25–34,Home,"Male, 25–34, Home",844,844,4267834,5056.68,100.00
+Male,35–44,Books,"Male, 35–44, Books",786,786,3995324,5083.11,100.00
+Male,35–44,Clothing,"Male, 35–44, Clothing",805,805,3965545,4926.14,100.00
+Male,35–44,Electronics,"Male, 35–44, Electronics",783,783,3949260,5043.75,100.00
+Male,35–44,Home,"Male, 35–44, Home",779,779,3950274,5070.96,100.00
+Male,45–54,Books,"Male, 45–54, Books",813,813,4191196,5155.22,100.00
+Male,45–54,Clothing,"Male, 45–54, Clothing",840,840,4271294,5084.87,100.00
+Male,45–54,Electronics,"Male, 45–54, Electronics",829,829,4382626,5286.64,100.00
+Male,45–54,Home,"Male, 45–54, Home",794,794,4216390,5310.31,100.00
+Male,55+,Books,"Male, 55+, Books",1333,1333,7062984,5298.56,100.00
+Male,55+,Clothing,"Male, 55+, Clothing",1298,1298,6784422,5226.83,100.00
+Male,55+,Electronics,"Male, 55+, Electronics",1324,1324,7145999,5397.28,100.00
+Male,55+,Home,"Male, 55+, Home",1332,1332,6774822,5086.2,100.00
+Male,"Under 25",Books,"Male, Under 25, Books",583,583,2878069,4936.65,100.00
+Male,"Under 25",Clothing,"Male, Under 25, Clothing",580,580,2843947,4903.36,100.00
+Male,"Under 25",Electronics,"Male, Under 25, Electronics",579,579,2970614,5130.59,100.00
+Male,"Under 25",Home,"Male, Under 25, Home",588,588,2787363,4740.41,100.00

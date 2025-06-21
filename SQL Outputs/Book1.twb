@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20251.25.0520.1026                               -->
+<workbook original-version='18.1' source-build='2025.1.2 (20251.25.0520.1026)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='funnel' inline='true' name='federated.1fc5v8w1lh02mt1e1rfcs1ijnwie' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='funnel' name='textscan.0kabtxz1dmnzrj1178h8j02amujq'>
+            <connection class='textscan' directory='D:/DEVELOPMENT/PROJECTS/User Funnel Analysis/Outputs' filename='funnel.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation name='Pivot' type='pivot'>
+          <columns>
+            <column datatype='string' name='Pivot Field Names' />
+            <column datatype='integer' name='Pivot Field Values' />
+          </columns>
+          <tag name='Pivot Field Names'>
+            <value name='[Churn]' />
+            <value name='[Intent]' />
+            <value name='[Product Interest]' />
+            <value name='[Purchase]' />
+            <value name='[Returns]' />
+          </tag>
+          <groups>
+            <group name='Pivot Field Values'>
+              <field name='[funnel.csv].[churn]' />
+              <field name='[funnel.csv].[intent]' />
+              <field name='[funnel.csv].[product_interest]' />
+              <field name='[funnel.csv].[purchase]' />
+              <field name='[funnel.csv].[returns]' />
+            </group>
+          </groups>
+          <relation connection='textscan.0kabtxz1dmnzrj1178h8j02amujq' name='funnel.csv' table='[funnel#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+              <column datatype='integer' name='product_interest' ordinal='0' />
+              <column datatype='integer' name='intent' ordinal='1' />
+              <column datatype='integer' name='purchase' ordinal='2' />
+              <column datatype='integer' name='returns' ordinal='3' />
+              <column datatype='integer' name='churn' ordinal='4' />
+              <column datatype='real' name='intent_conversion_rate' ordinal='5' />
+              <column datatype='real' name='purchase_conversion_rate' ordinal='6' />
+              <column datatype='real' name='return_rate' ordinal='7' />
+              <column datatype='real' name='churn_rate' ordinal='8' />
+            </columns>
+          </relation>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[funnel.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;₹&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_IN&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>intent_conversion_rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[intent_conversion_rate]</local-name>
+            <parent-name>[funnel.csv]</parent-name>
+            <remote-alias>intent_conversion_rate</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>purchase_conversion_rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[purchase_conversion_rate]</local-name>
+            <parent-name>[funnel.csv]</parent-name>
+            <remote-alias>purchase_conversion_rate</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>return_rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[return_rate]</local-name>
+            <parent-name>[funnel.csv]</parent-name>
+            <remote-alias>return_rate</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>churn_rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[churn_rate]</local-name>
+            <parent-name>[funnel.csv]</parent-name>
+            <remote-alias>churn_rate</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Pivot Field Names</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Pivot Field Names]</local-name>
+            <parent-name>[Pivot]</parent-name>
+            <remote-alias>Pivot Field Names</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Pivot Field Values</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Pivot Field Values]</local-name>
+            <parent-name>[Pivot]</parent-name>
+            <remote-alias>Pivot Field Values</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Mapped conversion rate' datatype='real' name='[Calculation_991636365877895168]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='IF [Pivot Field Names] = &apos;Intent&apos; THEN [intent_conversion_rate]&#13;&#10;ELSEIF [Pivot Field Names] = &apos;Purchase&apos; THEN [purchase_conversion_rate]&#13;&#10;ELSEIF [Pivot Field Names] = &apos;Returns&apos; THEN [return_rate]&#13;&#10;ELSEIF [Pivot Field Names] = &apos;Churn&apos; THEN [churn_rate]&#13;&#10;ELSE 100  // For &apos;product_interest&apos;, which is the top of the funnel (100%)&#13;&#10;END' />
+      </column>
+      <column caption='Funnel Stages' datatype='string' name='[Pivot Field Names]' role='dimension' type='nominal' />
+      <column caption='Customer Count' datatype='integer' name='[Pivot Field Values]' role='measure' type='quantitative' />
+      <column caption='funnel.csv' datatype='table' name='[__tableau_internal_object_id__].[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]' role='measure' type='quantitative' />
+      <column caption='Churn Rate' datatype='real' name='[churn_rate]' role='measure' type='quantitative' />
+      <column caption='Intent Conversion Rate' datatype='real' name='[intent_conversion_rate]' role='measure' type='quantitative' />
+      <column caption='Purchase Conversion Rate' datatype='real' name='[purchase_conversion_rate]' role='measure' type='quantitative' />
+      <column caption='Return Rate' datatype='real' name='[return_rate]' role='measure' type='quantitative' />
+      <column-instance column='[Pivot Field Names]' derivation='None' name='[none:Pivot Field Names:nk]' pivot='key' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/dgymn/AppData/Local/Temp/TableauTemp/#TableauTemp_1q0po070d8fcop118r9gs1osdaz0.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='06/20/2025 02:05:24 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>intent_conversion_rate</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[intent_conversion_rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>intent_conversion_rate</remote-alias>
+              <ordinal>0</ordinal>
+              <family>funnel.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>purchase_conversion_rate</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[purchase_conversion_rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>purchase_conversion_rate</remote-alias>
+              <ordinal>1</ordinal>
+              <family>funnel.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>return_rate</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[return_rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>return_rate</remote-alias>
+              <ordinal>2</ordinal>
+              <family>funnel.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>churn_rate</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[churn_rate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>churn_rate</remote-alias>
+              <ordinal>3</ordinal>
+              <family>funnel.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Pivot Field Names</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Pivot Field Names]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Pivot Field Names</remote-alias>
+              <ordinal>4</ordinal>
+              <family>Pivot</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='binary' />
+              <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Pivot Field Values</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Pivot Field Values]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Pivot Field Values</remote-alias>
+              <ordinal>5</ordinal>
+              <family>Pivot</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[funnel.csv_573BBAC808204A06A7B75D408D3CBE5C]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Pivot Field Names:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Product Interest&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Churn&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Returns&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Purchase&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Intent&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='shape' field='[none:Pivot Field Names:nk]' type='shape'>
+            <map to='asterisk'>
+              <bucket>&quot;Churn&quot;</bucket>
+            </map>
+            <map to='circle'>
+              <bucket>&quot;Product Interest&quot;</bucket>
+            </map>
+            <map to='plus'>
+              <bucket>&quot;Purchase&quot;</bucket>
+            </map>
+            <map to='square'>
+              <bucket>&quot;Intent&quot;</bucket>
+            </map>
+            <map to='times'>
+              <bucket>&quot;Returns&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;India&quot;' />
+      </semantic-values>
+      <field-sort-info field-sort-order-type='custom-order'>
+        <field-sort-custom-order field='intent_conversion_rate' />
+        <field-sort-custom-order field='purchase_conversion_rate' />
+        <field-sort-custom-order field='return_rate' />
+        <field-sort-custom-order field='churn_rate' />
+        <field-sort-custom-order field='Pivot Field Names' />
+        <field-sort-custom-order field='Pivot Field Values' />
+        <field-sort-custom-order field='Calculation_991636365877895168' />
+        <field-sort-custom-order field='Geometry (generated)' />
+        <field-sort-custom-order field='Latitude (generated)' />
+        <field-sort-custom-order field='Longitude (generated)' />
+        <field-sort-custom-order field=':Measure Names' />
+        <field-sort-custom-order field='Multiple Values' />
+      </field-sort-info>
+      <object-graph>
+        <objects>
+          <object caption='funnel.csv' id='funnel.csv_573BBAC808204A06A7B75D408D3CBE5C'>
+            <properties context=''>
+              <relation name='Pivot' type='pivot'>
+                <columns>
+                  <column datatype='string' name='Pivot Field Names' />
+                  <column datatype='integer' name='Pivot Field Values' />
+                </columns>
+                <tag name='Pivot Field Names'>
+                  <value name='[Churn]' />
+                  <value name='[Intent]' />
+                  <value name='[Product Interest]' />
+                  <value name='[Purchase]' />
+                  <value name='[Returns]' />
+                </tag>
+                <groups>
+                  <group name='Pivot Field Values'>
+                    <field name='[funnel.csv].[churn]' />
+                    <field name='[funnel.csv].[intent]' />
+                    <field name='[funnel.csv].[product_interest]' />
+                    <field name='[funnel.csv].[purchase]' />
+                    <field name='[funnel.csv].[returns]' />
+                  </group>
+                </groups>
+                <relation connection='textscan.0kabtxz1dmnzrj1178h8j02amujq' name='funnel.csv' table='[funnel#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_IN' separator=','>
+                    <column datatype='integer' name='product_interest' ordinal='0' />
+                    <column datatype='integer' name='intent' ordinal='1' />
+                    <column datatype='integer' name='purchase' ordinal='2' />
+                    <column datatype='integer' name='returns' ordinal='3' />
+                    <column datatype='integer' name='churn' ordinal='4' />
+                    <column datatype='real' name='intent_conversion_rate' ordinal='5' />
+                    <column datatype='real' name='purchase_conversion_rate' ordinal='6' />
+                    <column datatype='real' name='return_rate' ordinal='7' />
+                    <column datatype='real' name='churn_rate' ordinal='8' />
+                  </columns>
+                </relation>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontcolor='#000000' fontname='Benton Sans Book'>Customer Funnel Drop-Off</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='funnel' name='federated.1fc5v8w1lh02mt1e1rfcs1ijnwie' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1fc5v8w1lh02mt1e1rfcs1ijnwie'>
+            <column caption='Mapped conversion rate' datatype='real' name='[Calculation_991636365877895168]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='IF [Pivot Field Names] = &apos;Intent&apos; THEN [intent_conversion_rate]&#13;&#10;ELSEIF [Pivot Field Names] = &apos;Purchase&apos; THEN [purchase_conversion_rate]&#13;&#10;ELSEIF [Pivot Field Names] = &apos;Returns&apos; THEN [return_rate]&#13;&#10;ELSEIF [Pivot Field Names] = &apos;Churn&apos; THEN [churn_rate]&#13;&#10;ELSE 100  // For &apos;product_interest&apos;, which is the top of the funnel (100%)&#13;&#10;END' />
+            </column>
+            <column caption='Funnel Stages' datatype='string' name='[Pivot Field Names]' role='dimension' type='nominal' />
+            <column caption='Customer Count' datatype='integer' name='[Pivot Field Values]' role='measure' type='quantitative' />
+            <column caption='Churn Rate' datatype='real' name='[churn_rate]' role='measure' type='quantitative' />
+            <column caption='Intent Conversion Rate' datatype='real' name='[intent_conversion_rate]' role='measure' type='quantitative' />
+            <column-instance column='[Pivot Field Names]' derivation='None' name='[none:Pivot Field Names:nk]' pivot='key' type='nominal' />
+            <column caption='Purchase Conversion Rate' datatype='real' name='[purchase_conversion_rate]' role='measure' type='quantitative' />
+            <column caption='Return Rate' datatype='real' name='[return_rate]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_991636365877895168]' derivation='Sum' name='[sum:Calculation_991636365877895168:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Pivot Field Values]' derivation='Sum' name='[sum:Pivot Field Values:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[none:Pivot Field Names:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Product Interest&quot;</bucket>
+              <bucket>&quot;Intent&quot;</bucket>
+              <bucket>&quot;Purchase&quot;</bucket>
+              <bucket>&quot;Returns&quot;</bucket>
+              <bucket>&quot;Churn&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[none:Pivot Field Names:nk]' value='113' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='line-pattern-only' value='solid' />
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <tooltip column='[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[sum:Calculation_991636365877895168:qk]' />
+              <text column='[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[sum:Calculation_991636365877895168:qk]' />
+              <text column='[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[sum:Pivot Field Values:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='1' />
+                <format attr='line-visibility' value='on' />
+                <format attr='line-pattern-only' value='solid' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[sum:Pivot Field Values:qk]</rows>
+        <cols>[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[none:Pivot Field Names:nk]</cols>
+      </table>
+      <simple-id uuid='{3A001BD8-0479-40C8-B073-C8F3403BE338}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1fc5v8w1lh02mt1e1rfcs1ijnwie].[none:Pivot Field Names:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{B8EC1552-BF69-4AC7-8B28-0938DBE20D36}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      kxKLO3GCfAAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
