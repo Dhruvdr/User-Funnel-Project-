@@ -41,9 +41,9 @@ The goal of this project is to answer the following questions:
 ---
 
 ##  Tableau (Visualization)
-Funnel chart to visualize drop-off.
-Bar charts graphs.
-Interactive filters by age, gender,product category and payment method.
+- Funnel chart to visualize drop-off.
+- Bar charts graphs.
+- Interactive filters by age, gender,product category and payment method.
 
 ##  Insights
 1. Noticed that 40.7 % Customers Returned the Product.
@@ -68,9 +68,11 @@ Interactive filters by age, gender,product category and payment method.
 
 
 ## Project Structure 
-├──                           # Original Dataset
-├── book1.xlsx                # Cleaned dataset
-├── Queries.sql               # SQL logic for funnel analysis
-├── Output                    # Images of Charts and Dashboards
-└── README.md                 # Project documentation
+├──Data  
+|      ├── Ecommerce Customer        # Original Dataset
+|      ├── book1.xlsx                # Cleaned dataset
+├── SQL Outputs
+|      ├──Queries.sql               # SQL logic for funnel analysis
+├── Output                          # Images of Charts and Dashboards
+└── README.md                       # Project documentation
 
