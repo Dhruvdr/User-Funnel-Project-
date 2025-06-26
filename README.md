@@ -45,6 +45,8 @@ The goal of this project is to answer the following questions:
 - Bar charts graphs.
 - Interactive filters by age, gender,product category and payment method.
 
+---
+
 ##  Insights
 1. Noticed that 40.7 % Customers Returned the Product.
 2. People with Age Group of 55+ drive more revenue than other which is 6,86,48,534 while people under 25 drive least revenue.
@@ -58,6 +60,7 @@ The goal of this project is to answer the following questions:
 10. Churn Rate for Credit Card User is Lowest and for Cash users is Highest.
 11. Churn Rate for Age Group 45-54 is lowest and for Users under 25 is Highest.
 
+---
 
 ## Recommendations
 1. To Decrease the Drop Off , we should focus on Making the Product more better to satisfy the demand of the user. This will also decrease the Return Rate.
@@ -66,6 +69,7 @@ The goal of this project is to answer the following questions:
 4. We can make Paypal payment more smooth to increase Purchase Completion Rate and also giving Discount to the Customer who pay by cash to decrease the Churn Rate.
 5. To Decrease Churn Rate we should focus more on retaining the Female & under 25 aged customers , making better Clothing Product , encouraging Credit Card Use .
 
+---
 
 ## Project Structure 
 <pre> ``` ├── Data 
