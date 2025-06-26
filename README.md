@@ -38,9 +38,8 @@ The goal of this project is to answer the following questions:
 - Created funnel stages (e.g., Product Interest , Intent )
 - Segmented data to calculate conversion and churn
 
----
 
-##  Tableau (Visualization)
+###  Tableau (Visualization)
 - Funnel chart to visualize drop-off.
 - Bar charts graphs.
 - Interactive filters by age, gender,product category and payment method.
